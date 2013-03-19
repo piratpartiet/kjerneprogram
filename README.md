@@ -3,7 +3,11 @@ kjerneprogram
 
 Kjerneprogram for piratpartiet i norge (inneholder også brancher som ikke er vedtatt program)
 
-Organiseres av piratpartiets programbande etter følgende vedtak fra landsmøtet (programkomitee er endret til bande, slik som det og ble vedtatt):
+### Organiseres av piratpartiets programbande etter følgende vedtak fra landsmøtet:
+
+(programkomitee er endret til bande, det navnet som ble vedtatt på landsmøtet)
+
+
 --------------------------------------------------------------
 Opprettelse av programbande, samt valg av programbande:
 
