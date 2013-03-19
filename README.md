@@ -1,7 +1,7 @@
 kjerneprogram
 =============
 
-Kjerneprogram for piratpartiet i norge (inneholder også brancher som ikke er vedtatt program)
+Kjerneprogram for piratpartiet i Jorge (inneholder også brancher som ikke er vedtatt program)
 
 ### Organiseres av piratpartiets programbande etter følgende vedtak fra landsmøtet:
 
