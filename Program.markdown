@@ -1,6 +1,6 @@
 # Piratpartiets kjerneprogram 2013
 
-Norge følger mange andre land som allerede har Piratpartier. Det første Piratpartiet ble stiftet i Sverige i 2006 som en reaksjon på det svenske «Anti-Piratbyråns» arbeid mot brudd på opphavsrett på Internett. Piratpartiene internasjonalt jobber for de mulighetene Internett gir oss. Vi mener kunnskap og kultur bør deles og gjenbrukes, at individets rettigheter skal forsvares, og at nettet muliggjør en mer direkte og demokratisk politisk modell.
+Norge følger mange andre land som allerede har Piratpartier. Det første Piratpartiet ble stiftet i Sverige i 2006 som en reaksjon på det svenske «Anti-Piratbyråns» arbeid mot brudd på opphavsrett på Internett. Piratpartiene internasjonalt jobber for de mulighetene nettet gir oss. Vi mener kunnskap og kultur skal deles og gjenbrukes, at individets rettigheter skal forsvares, og at nettet muliggjør en mer direkte og demokratisk politisk modell.
 
 Piratpartiets kjerneprogram ble vedtatt på partiets første landsmøte i mars 2013. Dokumentet ble skrevet i fellesskap på nettet og diskutert i plenum på landsmøtet. Kjerneprogrammet inneholder våre viktigste standpunkt og danner grunnlaget for valgkampen 2013. Vi ønsker å gjøre Piratpartiet til en politisk maktfaktor i Norge allerede denne høsten!
 
@@ -43,7 +43,7 @@ I hver søyle beskriver vi prinsippene våre og konkrete politiske standpunkt.
 
 ## Individ og personvern
 
-> Piratpartiet ønsker å stadfeste grunnleggende rettigheter for individet, oppdatert for informasjonsalderen
+> Piratpartiet ønsker å stadfeste grunnleggende rettigheter for individet, også gjeldene for informasjonsalderen
 
 
 ### Prinsipper
@@ -58,7 +58,7 @@ Piratpartiet står for sterkere sivile retter i form av menings- og ytringsfrihe
  - Styrke Datatilsynet ved å gi dem reell mulighet til å tilbakekalle konsesjon og kreve full sletting av data.
  - Beskytte norsk kommunikasjon mot avlytting, jfr. den svenske FRA-loven.
  - Bevare og styrke retten til privat kommunikasjon («lukkede konvolutter»), uavlyttede telefonsamtaler og krypterte meldinger.
- - Tillate og tilrettelegge for anonyme ytringer på Internett.
+ - Tillate og tilrettelegge for anonyme ytringer på nettet.
  - Etablere digitale forbrukerrettigheter.
  - Begrense private aktørers mulighet til kreve tilgang til sensitiv informasjon registrert av det offentlige. For eksempel skal ikke forsikringsselskaper ha anledning til å be foreldre om samtykke til å hente ut informasjon fra PP-tjenesten som forutsetning for forsikringsavtale.
  - Åpne for debatt angående liberalisering av sikkerhetskontroll: fjerne forbudet mot å bære mer enn 100ml væske i håndbagasjen og fjerne sikkerhetskontrollens praksis med tilfeldig etterkontroll.
@@ -76,7 +76,7 @@ Kommunikasjon er selve livsnerven for et fungerende moderne samfunn enten det er
 
 For at kommunikasjonen skal tjene formålet med å koble sammen individer, må infrastrukturen både være velutbygd og nøytral. Hverken Vegvesenet, postverket eller nettleverandørene skal diktere hvordan infrastrukturen skal benyttes.
 
-Å kunne jobbe for et enda mer effektivt demokrati og fremgangsrikt samfunn forutsetter også en tanke- og ytringsfrihet som krever at folket skal kunne kommunisere fritt uten sensur og overvåkning, hverken fra det offentlige eller fra private.
+Å kunne jobbe for et enda mer effektivt demokrati og fremgangsrikt samfunn forutsetter en tanke- og ytringsfrihet. Det krever at folket skal kunne kommunisere fritt uten sensur og overvåkning, hverken fra det offentlige eller fra private.
 
 ### Piratpartiet vil konkret
 
@@ -87,7 +87,7 @@ For at kommunikasjonen skal tjene formålet med å koble sammen individer, må i
 - Kreve at offentlig finansierte kart gjøres fritt tilgjengelig med muligheter for gjenbruk.
 - Innføre kostnadstak på mobiltelefon ved roaming.
 - Kreve brukerstyrte kostnadstak for mobilabonnement.
-- Tilrettelegge for anonyme og distribuerte betalingsløsninger, både fysiske og digitale. 
+- Tilrettelegge for anonyme og distribuerte betalingsløsninger, både fysiske, tradisjonelle og nye løsninger over internett.
 - Tillate legging av fiber i mikrogrøfter.
 - Gi personer med norsk fødselsnummer rett til å registrere domener under de norske toppdomenene.
 - Begrense lengden på KID-nummer for å hindre unødig frustrasjon ved betaling av regninger.
@@ -132,7 +132,7 @@ Opphavsrett var opprinnelig ment som et midlertidig monopol for å stimulere til
 - Opprettholde støtteordninger for kreative og kunstneriske aktiviteter.
 - Kreve at kulturinstitusjoner som får offentlig støtte publiserer gjenbrukbart digitalt innhold.
 - Kreve bruk av fri programvare i offentlig sektor dersom dette er mulig.
-- Redusere vernetid for åndsverk til maksimalt 20 år [etter utgivelsesdato] og innføre enkle krav om registrering etter 5 år.
+- Redusere vernetid for åndsverk til maksimalt 20 år etter utgivelse og innføre enkle krav om registrering etter 5 år.
 - Bortfall av vernetid ved manglende produksjon / utgivelse av åndsverk?
 - Tillate bruk av YouTube og andre moderne videoløsninger i norsk skole.
 - Innføre leserett for innhold med kopisperrer.
@@ -152,13 +152,11 @@ Opphavsrett var opprinnelig ment som et midlertidig monopol for å stimulere til
 
 ### Prinsipper
 
-
-
 Piratpartiet støtter satsing på teknologi, innovasjon og den vitenskapelige metode. 
 
-Det må være en balanse mellom fri og åpen forskning [grunnforskning?] og resultatorientert forskning. Piratpartiet vil gi universitetene våre en sterkere og mer selvstendig stilling i samfunnet for å hindre at politikere overstyrer og forstyrrer vitenskapelige metoder. Intensjonen er at universitetsansatte ikke lenger skal hindres fra å delta i den offentlige debatt. 
+Det må være en balanse mellom grunnforskning og resultatorientert forskning. Piratpartiet vil gi universitetene våre en sterkere og mer selvstendig stilling i samfunnet for å hindre at politikere overstyrer og forstyrrer vitenskapelige metoder. Intensjonen er at universitetsansatte ikke lenger skal hindres fra å delta i den offentlige debatt. 
 
-Patenter, som statlig garanterte monopoler, skaper en kunstig innskrenking i den allmenne velferden, og trenger hyppig etterprøving og evaluering. Programvarepatenter og biologiske patenter er særlig skadelige og bør fjernes. Patenter som direkte blokkerer fremskritt i vitenskap og/eller teknologi bør under alle omstendigheter forhindres.
+Patenter, som statlig garanterte monopoler, skaper en kunstig innskrenking i den allmenne velferden, og trenger hyppig overprøving og evaluering. Programvarepatenter og biologiske patenter er særlig skadelige og bør fjernes. Patenter som direkte blokkerer fremskritt i vitenskap og/eller teknologi bør under alle omstendigheter forhindres.
 
 Forskning som er offentlig finansiert (inkludert rådata, programkode og metoder) skal ligge åpent på Internett. Det tjener ikke samfunnet som helhet at forskning foregår bak lukkede dører uten mulighet for innsyn for andre til rådata, metoder, og programkode som er brukt som grunnlag for konklusjoner i forskningen.
 
@@ -170,18 +168,3 @@ Forskning som er offentlig finansiert (inkludert rådata, programkode og metoder
 - All offentlig finansiert forskning må publiseres åpent og være fritt tilgjengelig.
 - Fjerne programvarepatenter og biologiske patenter. Andre typer patenter skal vurderes.
 - Data og programvare finansert gjennom offentlige midler må være åpent og fritt tilgjengelig.
-
-
-
-
-ENDRINGSFORSLAG TIL SEINARE:
-- Fjerne "For eksempel skal ikke forsikringsselskaper ha anledning til å be foreldre om samtykke til å hente ut informasjon fra PP-tjenesten som forutsetning for forsikringsavtale". Dømer skal ikkje være med i eit kjerneprogram.
-- Fjerne " fjerne forbudet mot å bære mer enn 250ml væske i håndbagasje". Dette er allereie vedtatt pga nye og betre scannarar
-- Begrense lengden på KID-nummer for å hindre unødig frustrasjon ved betaling av regninger. Potensielt legge til at det er eit problem for personar med dyskalkuli for å gi den "seriøsitet" Trengs bevis for at det er eit problem though.
-- Endre "La vanlige folk få legge frem forslag som Stortinget må ta stilling til dersom det oppnås et gitt antall signaturer (elektronisk)" til "[...] antall signaturer fysisk og/eller digitalt.
-- Fjerne: "Bortfall av vernetid ved manglende produksjon / utgivelse av åndsverk?"
-- Fjerne: "Tillate bruk av YouTube og andre moderne videoløsninger i norsk skole.". Det er allereie lov
-- Vesentleg omformulere: "Innføre leserett for innhold med kopisperrer."
-
-
-
