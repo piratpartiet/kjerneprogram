@@ -32,7 +32,7 @@ Ettersom Piratpartiet har sitt utspring i teknolog- og vitenskapsmiljøet, er de
 
 #### Våre fem søyler
 
-Våre prinsipper og standpunkt er organisert i fem søyler
+Våre prinsipper og standpunkt er organisert i fem søyler:
 
 - individ og personvern
 - demokrati
