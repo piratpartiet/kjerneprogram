@@ -15,9 +15,9 @@ Piratpartiets kjerneprogram er bygd opp i tre lag:
 > Vårt samfunn har et sett grunnleggende prinsipper og rettigheter som skal være universelle. Disse rettighetene har dessverre forvitret over tid.
 
 Vi ønsker å stadfeste grunnleggende rettigheter, tilpasset informasjonsalderen. Det gjelder:
- - Individuelle rettigheter, som enkeltpersoners rett til frie ytringer, rettsvern og privatliv.
- - Kollektive rettigheter, som arbeiderrettigher og forbrukerrettigheter.
- - Infrastruktur for samhandling, som transport, kommunikasjon og betalingsformidling.
+- Individuelle rettigheter, som enkeltpersoners rett til frie ytringer, rettsvern og privatliv.
+- Kollektive rettigheter, som arbeiderrettigher og forbrukerrettigheter.
+- Infrastruktur for samhandling, som transport, kommunikasjon og betalingsformidling.
 
 ### Demokrati
 
@@ -53,16 +53,16 @@ Piratpartiet står for sterkere sivile retter i form av menings- og ytringsfrihe
 
 ### Piratpartiet vil konkret
 
- - Stanse implementeringen av Datalagringsdirektivet (DLD) med alle tilgjengelige politiske midler. Det være seg ultimatum eller kabinettspørsmål.
- - Styrke Datatilsynet ved å gi dem reell mulighet til å tilbakekalle konsesjon og kreve full sletting av personopplysninger.
- - Beskytte norsk kommunikasjon mot avlytting, jfr. den svenske FRA-loven.
- - Bevare og styrke retten til privat kommunikasjon («lukkede konvolutter»), uavlyttede telefonsamtaler og krypterte meldinger.
- - Tillate og tilrettelegge for anonyme ytringer på nettet.
- - Etablere digitale forbrukerrettigheter.
- - Begrense private aktørers mulighet til å kreve tilgang til sensitiv informasjon registrert av det offentlige. For eksempel skal ikke forsikringsselskaper ha anledning til å be foreldre om samtykke til å hente ut informasjon fra PP-tjenesten som forutsetning for forsikringsavtale.
- - Åpne for debatt angående liberalisering av sikkerhetskontroll: Fjerne forbudet mot å bære mer enn 100 ml væske i håndbagasjen og fjerne sikkerhetskontrollens praksis med tilfeldig etterkontroll.
- - Ikke tillate «nakenscanning» på flyplasser.
- - Styrke ytrings- og varslingsfrihet.
+- Stanse implementeringen av Datalagringsdirektivet (DLD) med alle tilgjengelige politiske midler. Det være seg ultimatum eller kabinettspørsmål.
+- Styrke Datatilsynet ved å gi dem reell mulighet til å tilbakekalle konsesjon og kreve full sletting av personopplysninger.
+- Beskytte norsk kommunikasjon mot avlytting, jfr. den svenske FRA-loven.
+- Bevare og styrke retten til privat kommunikasjon («lukkede konvolutter»), uavlyttede telefonsamtaler og krypterte meldinger.
+- Tillate og tilrettelegge for anonyme ytringer på nettet.
+- Etablere digitale forbrukerrettigheter.
+- Begrense private aktørers mulighet til å kreve tilgang til sensitiv informasjon registrert av det offentlige. For eksempel skal ikke forsikringsselskaper ha anledning til å be foreldre om samtykke til å hente ut informasjon fra PP-tjenesten som forutsetning for forsikringsavtale.
+- Åpne for debatt angående liberalisering av sikkerhetskontroll: Fjerne forbudet mot å bære mer enn 100 ml væske i håndbagasjen og fjerne sikkerhetskontrollens praksis med tilfeldig etterkontroll.
+- Ikke tillate «nakenscanning» på flyplasser.
+- Styrke ytrings- og varslingsfrihet.
 
 ## Kommunikasjon og infrastruktur
 
