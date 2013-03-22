@@ -8,7 +8,6 @@ Piratpartiets kjerneprogram ble vedtatt på partiets første landsmøte i mars 2
 
 > Piratpartiet tilbyr ikke ferdige løsninger, men metodene for å finne dem.
 
-
 Piratpartiets kjerneprogram er bygd opp i tre lag:
 
 ### Grunnleggende prinsipper og rettigheter
@@ -21,13 +20,14 @@ Vi ønsker å stadfeste grunnleggende rettigheter, tilpasset informasjonsalderen
  - Infrastruktur for samhandling, som transport, kommunikasjon og betalingsformidling.
 
 ### Demokrati
+
 Vi ønsker å etablere demokratiske spilleregler som er tilpasset informasjonsalderen. Internett gir muligheter til nye og bedre måter å organisere de politiske prosessene for best mulig å representere folkets interesser.
 
 ### Politikk
+
 Når vi har etablert demokratiske spilleregler som er avgrenset av grunnleggende prinsipper og rettigheter, kan vi utforme konkrete politiske synspunkter. Piratpartiet er primært opptatt av å definere prosessene, mer enn resultatene.
 
 Ettersom Piratpartiet har sitt utspring i teknologi- og vitenskapsmiljøene, er det nærliggende at vi definerer disse områdene først. Vi vil etablere målsetninger, prosesser og politiske programmer innen andre områder etter hvert som partiet vokser.
-
 
 #### Våre fem søyler
 
@@ -41,11 +41,9 @@ Våre prinsipper og standpunkter er organisert i fem søyler:
 
 I hver søyle beskriver vi prinsippene våre og konkrete politiske standpunkter. 
 
-
 ## Individ og personvern
 
 > Piratpartiet ønsker å stadfeste grunnleggende rettigheter for individet, også gjeldende for informasjonsalderen.
-
 
 ### Prinsipper
 
@@ -65,7 +63,6 @@ Piratpartiet står for sterkere sivile retter i form av menings- og ytringsfrihe
  - Åpne for debatt angående liberalisering av sikkerhetskontroll: Fjerne forbudet mot å bære mer enn 100 ml væske i håndbagasjen og fjerne sikkerhetskontrollens praksis med tilfeldig etterkontroll.
  - Ikke tillate «nakenscanning» på flyplasser.
  - Styrke ytrings- og varslingsfrihet.
-
 
 ## Kommunikasjon og infrastruktur
 
@@ -93,11 +90,9 @@ For at kommunikasjonen skal tjene formålet med å koble sammen individer, må i
 - Gi personer med norsk fødselsnummer rett til å registrere domener under de norske toppdomenene.
 - Begrense lengden på KID-nummer for å hindre unødig frustrasjon ved betaling av regninger.
 
-
 ## Demokrati
 
 > Internett muliggjør et styresett som er nærmere det demokratiske idealet enn det vi har i dag.
-        
 
 ### Prinsipper
 
@@ -115,7 +110,6 @@ Det representative demokratiet vi har i Norge i dag er ikke den beste måten å 
 - Kreve at kontrakter mellom det offentlige og private publiseres åpent.
 - La vanlige folk få legge frem forslag som Stortinget må ta stilling til dersom det oppnås et gitt antall signaturer (elektronisk).
 
-
 ## Kunnskap og kultur
 
 > Piratpartiet ønsker at samfunnet får tilgang til mest mulig kunnskap og kultur, og ønsker at fagfellevurdert forskning skal avdekke virkemidler som gir oss det samfunnet vi ønsker.
@@ -123,7 +117,6 @@ Det representative demokratiet vi har i Norge i dag er ikke den beste måten å 
 ### Prinsipper
 
 Opphavsrett var opprinnelig ment som et midlertidig monopol for å stimulere til at samfunnet fikk økt tilgang til kulturelle uttrykk. Det var opprinnelig en ren kommersiell begrensning ettersom kopimaskiner var dyre, men nå som de er billige har privatpersoner også blitt omfattet av loven. Internett og den digitale revolusjonen har endret forutsetningene, og loven må følge etter. Vi har ikke alle svarene, men vi vet i hvert fall at vernetiden er unødig høy og at opphavsretten ikke bør kunne trå over grunnleggende rettigheter som fri kommunikasjon og ytringsfriheten. Vi mener det er nødvendig med en reform hvor vi går tilbake til utgangspunktet ved å spørre hvordan samfunnet får tilgang til mest mulig kunnskap og kultur.
-
 
 ### Piratpartiet vil konkret
 
@@ -145,8 +138,6 @@ Opphavsrett var opprinnelig ment som et midlertidig monopol for å stimulere til
 - Innføre krav om at offentlig ansatte skal bidra med gjenbrukbart innhold på nettet i relevante arenaer.
 - Gi mulighet til å ta programmering som tilvalgsfag i videregående skole der det er kompetanse til å gi det.
 
-
-
 ## Teknologi, innovasjon og vitenskap
 
 > Piratpartiet tror på forskning, utvikling og deling av resultater. 
@@ -160,7 +151,6 @@ Det må være en balanse mellom grunnforskning og resultatorientert forskning. P
 Patenter, som statlig garanterte monopoler, skaper en kunstig innskrenkning av den allmenne velferden, og trenger hyppig overprøving og evaluering. Programvarepatenter og biologiske patenter er særlig skadelige og bør fjernes. Patenter som direkte blokkerer fremskritt i vitenskap og/eller teknologi bør under alle omstendigheter forhindres.
 
 Forskning som er offentlig finansiert (inkludert rådata, programkode og metoder) skal ligge åpent på Internett. Det tjener ikke samfunnet som helhet at forskning foregår bak lukkede dører uten mulighet for innsyn for andre i rådata, metoder, og programkode som er brukt som grunnlag for konklusjoner i forskningen.
-
 
 ### Piratpartiet vil konkret
 
@@ -178,7 +168,3 @@ ENDRINGSFORSLAG TIL SEINARE:
 - Fjerne: "Bortfall av vernetid ved manglende produksjon / utgivelse av åndsverk?"
 - Fjerne: "Tillate bruk av YouTube og andre moderne videoløsninger i norsk skole.". Det er allereie lov
 - Vesentleg omformulere: "Innføre leserett for innhold med kopisperrer."
-
-
-
-
