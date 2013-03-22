@@ -39,7 +39,7 @@ Våre prinsipper og standpunkter er organisert i fem søyler:
 - kunnskap og kultur
 - teknologi, innovasjon og vitenskap
 
-I hver søyle beskriver vi prinsippene våre og konkrete politiske standpunkter. 
+I hver søyle beskriver vi prinsippene våre og konkrete politiske standpunkter.
 
 ## Individ og personvern
 
@@ -140,13 +140,13 @@ Opphavsrett var opprinnelig ment som et midlertidig monopol for å stimulere til
 
 ## Teknologi, innovasjon og vitenskap
 
-> Piratpartiet tror på forskning, utvikling og deling av resultater. 
+> Piratpartiet tror på forskning, utvikling og deling av resultater.
 
 ### Prinsipper
 
-Piratpartiet støtter satsing på teknologi, innovasjon og den vitenskapelige metode. 
+Piratpartiet støtter satsing på teknologi, innovasjon og den vitenskapelige metode.
 
-Det må være en balanse mellom grunnforskning og resultatorientert forskning. Piratpartiet vil gi universitetene våre en sterkere og mer selvstendig stilling i samfunnet for å hindre at politikere overstyrer og forstyrrer vitenskapelige metoder. Universitetsansatte skal ikke lenger hindres fra å delta i den offentlige debatt. 
+Det må være en balanse mellom grunnforskning og resultatorientert forskning. Piratpartiet vil gi universitetene våre en sterkere og mer selvstendig stilling i samfunnet for å hindre at politikere overstyrer og forstyrrer vitenskapelige metoder. Universitetsansatte skal ikke lenger hindres fra å delta i den offentlige debatt.
 
 Patenter, som statlig garanterte monopoler, skaper en kunstig innskrenkning av den allmenne velferden, og trenger hyppig overprøving og evaluering. Programvarepatenter og biologiske patenter er særlig skadelige og bør fjernes. Patenter som direkte blokkerer fremskritt i vitenskap og/eller teknologi bør under alle omstendigheter forhindres.
 
@@ -155,7 +155,7 @@ Forskning som er offentlig finansiert (inkludert rådata, programkode og metoder
 ### Piratpartiet vil konkret
 
 - Øke offentlig støtte til forskning.
-- Kreve at offentlig finansiert forskning skal være bygd på vitenskapelige metoder, uten ideologisk eller politisk påvirkning. 
+- Kreve at offentlig finansiert forskning skal være bygd på vitenskapelige metoder, uten ideologisk eller politisk påvirkning.
 - All offentlig finansiert forskning må publiseres åpent og være fritt tilgjengelig.
 - Fjerne programvarepatenter og biologiske patenter. Andre typer patenter skal vurderes.
 - Data og programvare finansiert gjennom offentlige midler må være åpent og fritt tilgjengelig.
