@@ -29,7 +29,7 @@ Når vi har etablert demokratiske spilleregler som er avgrenset av grunnleggende
 
 Ettersom Piratpartiet har sitt utspring i teknologi- og vitenskapsmiljøene, er det nærliggende at vi definerer disse områdene først. Vi vil etablere målsetninger, prosesser og politiske programmer innen andre områder etter hvert som partiet vokser.
 
-#### Våre fem søyler
+### Våre fem søyler
 
 Våre prinsipper og standpunkter er organisert i fem søyler:
 
