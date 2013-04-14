@@ -4,7 +4,7 @@ Kjerneprogram
 Kjerneprogram for Piratpartiet Norge (inneholder også brancher som ikke 
 er vedtatt program)
 
-### Organiseres av Piratpartiets programbande etter følgende vedtak fra 
+Organiseres av Piratpartiets programbande etter følgende vedtak fra 
 landsmøtet:
 
 (programkomité er endret til bande, det navnet som ble vedtatt på 
