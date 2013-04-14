@@ -31,6 +31,14 @@ Opprettelse og valg av programbande:
 
 ---------------------------------------------------------------
 
+For å sikre stabilitet i utviklingen og forhindre at feil forandringer 
+blir lagt inn, er den autoritative versjonen av Kjerneprogrammet den som 
+ligger i `kjerneprogram.git`. Forslag til forandringer bør legges inn i 
+[issue-trackeren på 
+GitHub](https://github.com/piratpartiet/kjerneprogram/issues) så det 
+ikke går i glemmeboken og det samtidig kan diskuteres om forslaget har 
+noe for seg og hvordan det eventuelt skal implementeres.
+
 - Endringer jfr. punkt 3 ligger i branchen `vedtatt`.
 - `master`-branchen inneholder arbeidet på utkast, jfr. punkt 2.
 - Andre brancher inneholder forslag, enten som er voterte eller som skal 
