@@ -10,6 +10,9 @@ landsmøtet:
 Betegnelsen «programkomité» er endret til «programbande», det navnet som 
 ble vedtatt på landsmøtet.
 
+En liste over Programbandens medlemmer er tilgjengelig på 
+<http://wiki.piratpartiet.no/index.php?title=Programbanden>.
+
 --------------------------------------------------------------
 
 Opprettelse og valg av programbande:
