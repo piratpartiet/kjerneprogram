@@ -21,8 +21,8 @@ Opprettelse og valg av programbande:
 2. Programbanden setter sammen et utkast til program på bakgrunn av det 
    eksisterende programmet som tas opp blant alle medlemmene og 
    behandles på landsmøtet.
-3. Programkomitéen kan kun gjøre redaksjonelle endringer av programmet 
-   og foreslå saker.
+3. Programbanden kan kun gjøre redaksjonelle endringer av programmet og 
+   foreslå saker.
 4. Programbanden er ansvarlig for å arrangere avstemninger i løpet av 
    arbeidet om saker på Internett.
 5. Programbanden samler sammen og offentliggjør innkomne forslag før 
