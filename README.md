@@ -1,45 +1,78 @@
-Kjerneprogram
-=============
+# Kjerneprogram
 
-Kjerneprogram for Piratpartiet Norge (inneholder også brancher som ikke 
-er vedtatt program)
+Denne kodebrønnen (code repository) inneholder kjerneprogrammet til
+Piratpartiet Norge som organiseres av [Piratpartiets programbande][programbande]
+etter vedtak fra landsmøtet.
 
-Organiseres av Piratpartiets programbande etter følgende vedtak fra 
-landsmøtet:
+## Bidra
 
-Betegnelsen «programkomité» er endret til «programbande», det navnet som 
-ble vedtatt på landsmøtet.
+Det til enhver tid vedtatte program vil befinne seg i branchen `master`. Det
+skal i utgangspunktet ikke eksistere noen andre branches, da alle endringer
+skal gjennomføres i form av pull requests.
 
-En liste over Programbandens medlemmer er tilgjengelig på 
-<http://wiki.piratpartiet.no/index.php?title=Programbanden>.
+Prosessen for å bidra med endringsforslag av både liten og stor karakter er
+som beskrevet i de to seksjonene nedenfor.
 
---------------------------------------------------------------
+### Konkrete tekstendringer
 
-Opprettelse og valg av programbande:
+Hvis du har en konkret tekstendring du ønsker å foreslå, kan du opprette en
+såkalt [pull request][pr] som så kan innlemmes ([merges][merge]) i det vedtatte
+programmet.
+
+1. Naviger til [kjerneprogrammet][kjerneprogram] og finn frem til den delen av
+   programmet du ønsker å endre. Dette kan være alt fra store omskrivinger
+   til nye punkter eller noe så enkelt som retting av skrivefeil.
+2. Trykk på blyant-knappen for å redigere programmet.
+3. Rediger deg ferdig.
+4. Beskriv hva du har gjort under "Commit changes". Et eksempel på dette kan
+   være "La til punkt om offentlig støtte til kjøp av piratflagg".
+5. Legg til en utdypende beskrivelse i feltet under hvis du føler det er
+   nødvendig.
+6. Gi branchen gjerne et beskrivende navn. Standard-navnet `<brukernavn>-patch-1`
+   er ikke så beskrivende og kan gjøre historikken i kodebrønnen vanskelig å
+   forstå.
+7. Trykk på "Commit changes".
+8. Du blir nå tatt til "Open a pull request"-skjermbildet. Dette er steget der
+   du beskriver for Programbanden **hvorfor** endringen du har utført bør
+   innlemmes (merges) i det vedtatte programmet.
+9. Skriv inn en kort og konsis tittel.
+10. Skriv inn en utfyllende og god beskrivelse av hvorfor endringen bør
+    innlemmes i programmet.
+11. Trykk på "Create pull request".
+12. Ferdig!
+
+### Diskusjoner og overodnet
+
+Hvis du ønsker å diskutere programmet mer overordnet kan du opprette en
+såkalt [issue][gh-issues]. Denne oppretter du slik:
+
+1. Naviger til [issues][pir-issues].
+2. Trykk på "New issue"-knappen.
+3. Skriv inn en tittel på emnet du ønsker å diskutere.
+4. Skriv inn kommentaren din, beskrevet på en så utfyllende og forståelig måte
+   som mulig.
+
+--------------------------------------------------------------------------------
+
+## Opprettelse og valg av programbande
 
 1. Programbanden består av medlemmer som velges på landsmøtet.
-2. Programbanden setter sammen et utkast til program på bakgrunn av det 
-   eksisterende programmet som tas opp blant alle medlemmene og 
+2. Programbanden setter sammen et utkast til program på bakgrunn av det
+   eksisterende programmet som tas opp blant alle medlemmene og
    behandles på landsmøtet.
-3. Programbanden kan kun gjøre redaksjonelle endringer av programmet og 
+3. Programbanden kan kun gjøre redaksjonelle endringer av programmet og
    foreslå saker.
-4. Programbanden er ansvarlig for å arrangere avstemninger i løpet av 
+4. Programbanden er ansvarlig for å arrangere avstemninger i løpet av
    arbeidet om saker på Internett.
-5. Programbanden samler sammen og offentliggjør innkomne forslag før 
+5. Programbanden samler sammen og offentliggjør innkomne forslag før
    hvert landsmøte.
 6. Programbanden skal ha jevnlig kontakt med Sentralstyret.
 
----------------------------------------------------------------
+--------------------------------------------------------------------------------
 
-For å sikre stabilitet i utviklingen og forhindre at feil forandringer 
-blir lagt inn, er den autoritative versjonen av Kjerneprogrammet den som 
-ligger i `kjerneprogram.git`. Forslag til forandringer bør legges inn i 
-[issue-trackeren på 
-GitHub](https://github.com/piratpartiet/kjerneprogram/issues) så det 
-ikke går i glemmeboken og det samtidig kan diskuteres om forslaget har 
-noe for seg og hvordan det eventuelt skal implementeres.
-
-- Endringer jfr. punkt 3 ligger i branchen `vedtatt`.
-- `master`-branchen inneholder arbeidet på utkast, jfr. punkt 2.
-- Andre brancher inneholder forslag, enten som er voterte eller som skal 
-  opp til votering i Liquid Feedback.
+[kjerneprogram]: kjerneprogram.md
+[programbande]: http://wiki.piratpartiet.no/index.php?title=Programbanden
+[gh-issues]: https://help.github.com/articles/about-issues/
+[pir-issues]: https://github.com/piratpartiet/pir-kjerneprogram/issues
+[pr]: https://help.github.com/articles/about-pull-requests/
+[merge]: https://help.github.com/articles/merging-a-pull-request/
