@@ -34,6 +34,40 @@ En enkeltpersons rett til å være informert skal aldri forhindres.
 
 Piratpartiet mener at alle har en ubegrenset rett til å være involvert i beslutninger som angår dem og deres anliggender. Denne retten garanteres gjennom en styrking av demokratiet og økt åpenhet i politikk og forvaltning. Piratpartiet mener vi trenger en desentralisering av makt, og at demokratiet må styrkes i alle mulige former. Dette ønsker vi å gjøre med en demokratisk reform, der innbyggerne raskt og effektivt kan gi sine folkevalgte og forvaltningen sin mening i alle saker som angår dem. I dagens informasjonssamfunn er dette en samfunnsutvikling den teknologiske utviklingen kommer til å føre til, og Piratpartiet mener det ikke finnes noen grunn til å stritte imot nettets demokratisering av samfunnet.
 
+### Piratkodeksen
+
+#### Pirater er frie
+
+Pirater liker frihet, uavhengighet og selvbestemmelse, og misliker blind lydighet. De står for individets rett til å ta valg basert på informasjon. Pirater tar ansvaret som frihet forutsetter.
+
+#### Pirater respekterer privatliv
+
+Pirater verner om den personlige sfære. De kjemper mot en voksende overvåkings-mani fra både stat og privat næringsliv, fordi det hemmer individets frie utvikling. Et fritt og demokratisk samfunn er umulig uten privatliv og frihet fra overvåkning.
+
+#### Pirater er kritiske
+
+Pirater er kreative, nysgjerrige, og slår seg ikke til ro med det bestående. De utfordrer systemer, ser etter svake sider, og finner løsninger. Pirater lærer av sine feil.
+
+#### Pirater er rettferdige
+
+De holder sitt ord. Solidaritet er viktig for å oppnå felles mål. Pirater er en motvekt til “la det skure”-holdningen som gjennomsyrer samfunnet, og har mot til å ty til handling når det er nødvendig.
+
+#### Pirater respekterer liv
+
+Pirater er fredelige. Derfor avviser de dødsstraff og er imot ødeleggelse av vårt miljø. Pirater står for bærekraftig natur- og ressursforvaltning. De aksepterer ikke patent på liv.
+
+#### Pirater ivrer etter kunnskap
+
+Tilgang til informasjon, utdannelse, kunnskap og vitenskapelig forskning må være ubegrenset. Pirater støtter fri deling av kultur og fri programvare.
+
+#### Pirater er solidariske
+
+Pirater respekterer menneskelig verdighet. De dedikerer seg til et samfunn forenet i solidaritet, hvor de sterke forsvarer de svake. Pirater står for en objektiv og rettferdig politisk kultur.
+
+#### Pirater er internasjonale
+
+Piratene er en global bevegelse. De tar utbytte av mulighetene som Internett tilbyr, og er derfor i stand til å tenke og handle uten grenser.
+
 ### Våre fem søyler
 
 Våre prinsipper og standpunkter er organisert i fem søyler:
