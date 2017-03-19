@@ -2,6 +2,8 @@
 
 ## Grunnlag, demokrati og politikk
 
+Piratpartiet mener kunnskap og kultur skal deles og gjenbrukes, at individets rettigheter skal forsvares, og at Internett muliggjør en mer direkte og demokratisk politisk modell.
+
 > Piratpartiet tilbyr ikke ferdige løsninger, men metodene for å finne dem.
 
 Piratpartiets kjerneprogram er bygd opp i tre lag:
