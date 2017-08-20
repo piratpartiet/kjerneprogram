@@ -31,6 +31,11 @@ Piratpartiet legger vekt på at enkeltpersoner skal kunne ta informerte valg og 
 
 En enkeltpersons rett til å være informert skal aldri forhindres. Piratpartiet mener at alle har en ubegrenset rett til å være involvert i beslutninger som angår dem og deres anliggender. Denne retten garanteres gjennom en styrking av demokratiet og økt åpenhet i politikk og forvaltning. Piratpartiet mener vi trenger en desentralisering av makt, og at demokratiet må styrkes i alle mulige former. Dette ønsker vi å gjøre med en demokratisk reform, der innbyggerne raskt og effektivt kan gi sine folkevalgte og forvaltningen sin mening i alle saker som angår dem. I dagens informasjonssamfunn er dette en samfunnsutvikling den teknologiske utviklingen kommer til å føre til, og Piratpartiet mener det ikke finnes noen grunn til å stritte imot nettets demokratisering av samfunnet.
 
+### Breddedemokrati
+Breddedemokratiet i Norge må for øyeblikket fungere innenfor rammene som defineres av det representative demokratiet, men vi ønsker å gi folk en mulighet til å delta i utformingen av politikken også mellom valgene. Denne muligheten er ny, og er muliggjort av den teknologiske utviklingen. En annen fordel ved breddedemokratiet er at det medfører en økt gjennomsiktighet i den politiske prosessen.
+
+Piratpartiet ønsker en grunnlovsendring der bindende folkeavstemninger får Grunnlovsvern.
+
 ## Bakgrunn
 
 Piratpartiet ser at «den digitale revolusjon» så langt har hatt en demokratiserende effekt. Internett gjør at enkeltindividet får mer makt, myndighet, frihet og kunnskap. Det er blitt noe vanskeligere for sterke stater og kommersielle foretak å styre flyten av informasjon. Den «digitale revolusjonen» har også sine skyggesider. Samfunnsutviklingen virker generelt opprivende på gamle forretningsmodeller og enkelte bransjer og profesjoner, og det er alltid folk som ikke ønsker omstillinger velkommen. Piratpartiet mener at dette er en nødvendig kostnad å ta – det er umulig å stoppe utviklingen for å ivareta særinteresser.
@@ -86,7 +91,7 @@ I den grad private aktører skal forvalte ressurser og tjenester på vegne av de
 - Innføre 3-dagersfrist på innsyn etter offentleglova. Fylkesmannen skal ilegge dagbøter etter 5 dager ved overtredelse.
 - Kreve at digitale 3D-modeller vedlegges byggesøknader med ansvarsrett (tiltak uten ansvarsrett kan søkes uten 3D-modeller).
 - Innføre rådgivende nettbaserte avstemninger i alle landets kommuner og fylkeskommuner. Internett gjør det mulig å forenkle avstemninger uten uforholdsmessig stor ressursbruk.
-- La vanlige folk få legge frem forslag som Stortinget må ta stilling til dersom det oppnås et gitt antall signaturer (elektronisk).
+- La vanlige folk få legge frem forslag som Stortinget må ta stilling til dersom det oppnås et gitt antall signaturer fysisk og/eller digitalt.
 - Støtte «Holder de ord» og tilsvarende organisasjoner som registrerer hva de politiske partiene mener og hvordan de stemmer på Stortinget.
 - Straffeforfølge korrupsjon i offentlig sektor 20 år tilbake i tid.
 - Piratpartiet er imot generell bevæpning av politiet. Med bevæpning menes våpen. Pepperspray, batong og hund kommer ikke inn under bevæpning og vil være tillatt generelt for politi.
@@ -114,8 +119,8 @@ Vi mener også at infrastrukturene skal være distribuerte, nøytrale og allment
 - Sikre retten til privat kommunikasjon («lukkede konvolutter»), uavlyttede telefonsamtaler og kryptert informasjon.
 - Tillate og tilrettelegge for anonyme ytringer på nettet.
 - Etablere digitale forbrukerrettigheter.
-- Begrense private aktørers mulighet til å kreve tilgang til sensitiv informasjon registrert av det offentlige. For eksempel skal ikke forsikringsselskaper ha anledning til å be foreldre om samtykke til å hente ut informasjon fra PP-tjenesten som forutsetning for forsikringsavtale.
-- Avinor skal tilby tomflasker og gratis påfylling av vann etter sikkerhetskontroll.
+- Begrense private aktørers mulighet til å kreve tilgang til sensitiv informasjon registrert av det offentlige. 
+- På flyplasser skal det tilbys gratis drikkevann etter sikkerhetskontrollen.
 - Ikke tillate «nakenskanning» på flyplasser.
 - Gjøre kildevernet absolutt.
 - Styrke ytrings- og varslingsfrihet. Gjengjeldelse fra arbeidsgiver straffes med fengsel i inntil seks år.
@@ -144,7 +149,6 @@ For at kommunikasjonen skal tjene formålet med å koble sammen individer, må i
 - Innføre kostnadstak på mobiltelefon ved roaming.
 - Kreve brukerstyrte kostnadstak for mobilabonnement.
 - Tilrettelegge for anonyme og distribuerte betalingsløsninger, både fysiske, tradisjonelle og nye løsninger over Internett.
-- Begrense lengden på KID-nummer for å hindre unødig frustrasjon ved betaling av regninger.
 - Påby maskinlesbar strekkode på giro som alternativ til KID-nummer.
 
 ## 4. Kunnskap og kultur
@@ -161,9 +165,9 @@ Opphavsrett var opprinnelig ment som et midlertidig monopol for å stimulere til
 - Redusere vernetiden for åndsverk til maksimalt 20 år etter utgivelse og innføre enkle krav om registrering etter 5 år.
 - Bortfall av vernetid ved manglende produksjon/utgivelse av åndsverk.
 - Innføre leserett for innhold med kopisperrer.
+- Bekjempe bruk av regionsperrer for åndsverk.
 - Bekjempe spesialavgifter på lagringsmedier.
 - Gi rett til å utvikle ikke-kommersiell kultur basert på kommersielle produkter.
-- Foreslå at «fair use» tas inn i lovverket som en beskyttelse av privatpersoners rett til å skape egne kulturuttrykk med elementer fra eksisterende verk.
 - Gi Nasjonalbiblioteket økt støtte til digitalisering av eldre aviser, tidsskrifter og andre publikasjoner, slik at de raskt blir lettere tilgjengelig for offentligheten enn i dag.
 - Opprettholde støtteordninger for kreative og kunstneriske aktiviteter.
 - Kreve at kulturinstitusjoner, som får offentlig støtte, publiserer gjenbrukbart digitalt innhold.
@@ -188,10 +192,12 @@ Patenter, som statlig garanterte monopoler, skaper en kunstig innskrenkning av d
 ### Piratpartiet vil konkret
 
 - Øke offentlig støtte til forskning.
+- Kreve at offentlig finansiert forskning skal være bygd på vitenskapelige metoder.
 - Kreve at offentlig finansiert forskning må publiseres i åpent format, være fritt tilgjengelig og kunne brukes fritt.
 - Data og programvare finansiert gjennom offentlige midler, helt eller delvis, skal benytte seg av fri eller åpen-kildekode-lisenser, og den modifiserte kildekoden må være åpen og fritt tilgjengelig og kunne brukes fritt.
 - Fjerne programvarepatenter, medisinske-, og biologiske patenter. Andre typer patenter skal vurderes.
 - Redusere vernetida på patentert miljøvennlig teknologi for å løse fremtidens miljøutfordringer.
+- Satse sterkere på romfart med utforskning av verdensrommet via Norsk Romsenter eller ESA (European Space Agency), samt styrke finansiering av forskning knyttet til dette feltet.
 
 ## 6. Utdanning
 
@@ -203,17 +209,32 @@ Utdanning skal gi pensjonspoeng fordi folk som tar høyere utdanning eller vider
 
 Gode kunnskaper om informasjonsteknologiens muligheter og konsekvenser er avgjørende for at mennesker skal ta gode valg i dagens og morgendagens samfunn.
 
-Piratpartiet ønsker å innføre et eksamensprogram, som likner SAT i USA, for folk som mangler vitnemål fra videregående skole eller ønsker å forbedre det uten å måtte ta opp fag som strekker seg utover unødvendig lang tid.
-
 ### Piratpartiet vil konkret
 
 - Unngå særbehandling av enkelte produktleverandører i skoleverket og det offentlige.
 - Sørge for frie og åpne læremidler til alle fag i grunnopplæringa.
+- Lovfeste gratis privatisteksamen i videregående opplæring.
 
 ## 7. Næringsliv og økonomi
 
 ### Prinsipper
 
-Store bedrifter har fått altfor mye oppmerksomhet de siste årene. En stor andel av de yrkesaktive arbeider i små eller mellomstore bedrifter. Piratpartiet ønsker å forbedre forholdene for små og mellomstore bedrifter med forenklet rammeverk. Piratpartiet vil se på mulighetene som internett- og delingsøkonomien gir.
+Næringslivs- og økonomisk politikk skal tjene alle mennesker og samfunnet.
+
+Piratpartiet ønsker å støtte et aktivt og konkurranseutsatt marked med innovasjon og vekst som kan støtte velferd og andre grunnleggende aspekter av samfunnet som utdanning og helsetjenester. Pirater tror hverken på privatisering eller nasjonalisering, men søker heller å finne en balanse mellom disse to og finne ut basert på forskning og offentlig debatt hvilken metode som er mest effektiv.
+
+Piratpartiet ønsker å sikre at internasjonale og globale selskaper som opererer i Norge betaler sin rettferdige andel av sin skatt til Norge siden de har inntekten sin her og fordi de bruker norsk infrastruktur betalt av innbyggerne i Norge.
+
+Vi ønsker å ta skritt for å sørge for at overskuddet fra internasjonale selskaper ikke blir unndratt skatt gjennom overføringer til moder- og søsterselskap i utlandet.
+
+Offentlige finanser skal være åpne, transparente, lettleselige og tilgjengelig på nett. Statskassens regnskap og regnskapsføring for offentlige institusjoner skal være tilgjengelig i digital form på nettet i et omfang som ikke er i konflikt med individets privatliv.
+
+All beskatning skal skje på en slik måte at den gjøres synlig og forståelig for folk som betaler skatten.
+
+Juridiske enheters eierskap skal alltid være åpen og sporbar.
 
 ### Piratpartiet vil konkret
+- Forbedre forholdene for små og mellomstore bedrifter med forenklet rammeverk, og bedre støtteordninger. Vi ser at brorparten av nye arbeidsplasser skapes i SMB-bedriftene, og vi ønsker å støtte disse.
+- Tilrettelegge for mulighetene som internett- og delingsøkonomien gir.
+- Hindre norsk ratifisering av frihandelsavtalene TTIP og TISA mellom EU/EØS og USA, og CETA mellom EU/EØS og Canada slik disse foreligger i dag. Disse er en betydelig fare for arbeidsplasser og forbruker- og miljøstandarder. Vi krever åpne forhandlinger og folkeavstemning.
+- Hindre norsk ratifisering av de økonomiske partnerskapsavtalene EPAs (Economic Partnership Agreements) mellom EU og afrikanske stater slik disse foreligger i dag. Grunnen er at disse setter verne- og utviklingsbehovene til afrikanske stater til side til fordel for europeiske næringsinteresser. Vi krever åpne forhandlinger og folkeavstemning.
