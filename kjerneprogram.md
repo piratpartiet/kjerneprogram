@@ -79,7 +79,7 @@ I hver søyle beskriver vi prinsippene våre og konkrete politiske standpunkter.
 
 ## 1. Demokrati og samfunn
 
->   Internett muliggjør et styresett som er nærmere det demokratiske idealet enn det vi har i dag.
+> Internett muliggjør et styresett som er nærmere det demokratiske idealet enn det vi har i dag.
 
 ### Prinsipper
 Det representative demokratiet vi har i Norge i dag har forbedringspotensiale for å oppnå intensjonen om folkestyre. Piratpartiet mener at Internett muliggjør et styresett som tillater borgere å være langt mer involvert i prosessene. Vi har sett tilfeller der særinteresser har hatt utilbørlig innflytelse på politikken, og det ønsker vi å endre. Åpenhet og innsyn, folkeavstemninger og felles utforming av lover vil endre norsk politikk dramatisk, hvor folket igjen bestemmer.
@@ -158,7 +158,7 @@ For at kommunikasjonen skal tjene formålet med å koble sammen individer, må i
 
 ## 4. Kunnskap og kultur
 
->   Piratpartiet ønsker at samfunnet får tilgang til mest mulig kunnskap og kultur, og ønsker at fagfellevurdert forskning skal avdekke virkemidler som gir oss det samfunnet vi ønsker.
+> Piratpartiet ønsker at samfunnet får tilgang til mest mulig kunnskap og kultur, og ønsker at fagfellevurdert forskning skal avdekke virkemidler som gir oss det samfunnet vi ønsker.
 
 ### Prinsipper
 
@@ -170,9 +170,9 @@ Opphavsrett var opprinnelig ment som et midlertidig monopol for å stimulere til
 - Redusere vernetiden for åndsverk til maksimalt 20 år etter utgivelse og innføre enkle krav om registrering etter 5 år.
 - Bortfall av vernetid ved manglende produksjon/utgivelse av åndsverk.
 - Innføre leserett for innhold med kopisperrer.
+- Bekjempe bruk av regionsperrer for åndsverk.
 - Bekjempe spesialavgifter på lagringsmedier.
 - Gi rett til å utvikle ikke-kommersiell kultur basert på kommersielle produkter.
-- Foreslå at «fair use» tas inn i lovverket som en beskyttelse av privatpersoners rett til å skape egne kulturuttrykk med elementer fra eksisterende verk.
 - Gi Nasjonalbiblioteket økt støtte til digitalisering av eldre aviser, tidsskrifter og andre publikasjoner, slik at de raskt blir lettere tilgjengelig for offentligheten enn i dag.
 - Opprettholde støtteordninger for kreative og kunstneriske aktiviteter.
 - Kreve at kulturinstitusjoner, som får offentlig støtte, publiserer gjenbrukbart digitalt innhold.
@@ -182,7 +182,7 @@ Opphavsrett var opprinnelig ment som et midlertidig monopol for å stimulere til
 
 ## 5. Forskning og innovasjon
 
->   Piratpartiet tror på forskning, utvikling og deling av resultater.
+> Piratpartiet tror på forskning, utvikling og deling av resultater.
 
 ### Prinsipper
 
