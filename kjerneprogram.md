@@ -214,12 +214,11 @@ Utdanning skal gi pensjonspoeng fordi folk som tar høyere utdanning eller vider
 
 Gode kunnskaper om informasjonsteknologiens muligheter og konsekvenser er avgjørende for at mennesker skal ta gode valg i dagens og morgendagens samfunn.
 
-Piratpartiet ønsker å innføre et eksamensprogram, som likner SAT i USA, for folk som mangler vitnemål fra videregående skole eller ønsker å forbedre det uten å måtte ta opp fag som strekker seg utover unødvendig lang tid.
-
 ### Piratpartiet vil konkret
 
 - Unngå særbehandling av enkelte produktleverandører i skoleverket og det offentlige.
 - Sørge for frie og åpne læremidler til alle fag i grunnopplæringa.
+- Lovfeste gratis privatisteksamen i videregående opplæring.
 
 ## 7. Næringsliv og økonomi
 
