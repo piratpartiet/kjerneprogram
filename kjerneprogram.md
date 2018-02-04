@@ -154,7 +154,6 @@ For at kommunikasjonen skal tjene formålet med å koble sammen individer, må i
 - Innføre kostnadstak på mobiltelefon ved roaming.
 - Kreve brukerstyrte kostnadstak for mobilabonnement.
 - Tilrettelegge for anonyme og distribuerte betalingsløsninger, både fysiske, tradisjonelle og nye løsninger over Internett.
-- Begrense lengden på KID-nummer for å hindre unødig frustrasjon ved betaling av regninger.
 - Påby maskinlesbar strekkode på giro som alternativ til KID-nummer.
 
 ## 4. Kunnskap og kultur
