@@ -6,7 +6,7 @@ Vedtatt 17. mars 2013. Sist oppdatert 20. august 2017.
 
 Piratkodeksen danner grunnlaget for kjerneprogrammet og valgprogrammet til Piratpartiet.
 
-Les Piratkodeksen her.
+[Les Piratkodeksen her.](https://www.piratpartiet.no/kjerneprogrammet/politikken-var/piratkodeksen/)
 
 ## Grunnlag for piratpolitikk
 
