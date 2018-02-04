@@ -36,7 +36,7 @@ Piratpartiet legger vekt på at enkeltpersoner skal kunne ta informerte valg og 
 
 En enkeltpersons rett til å være informert skal aldri forhindres. Piratpartiet mener at alle har en ubegrenset rett til å være involvert i beslutninger som angår dem og deres anliggender. Denne retten garanteres gjennom en styrking av demokratiet og økt åpenhet i politikk og forvaltning. Piratpartiet mener vi trenger en desentralisering av makt, og at demokratiet må styrkes i alle mulige former. Dette ønsker vi å gjøre med en demokratisk reform, der innbyggerne raskt og effektivt kan gi sine folkevalgte og forvaltningen sin mening i alle saker som angår dem. I dagens informasjonssamfunn er dette en samfunnsutvikling den teknologiske utviklingen kommer til å føre til, og Piratpartiet mener det ikke finnes noen grunn til å stritte imot nettets demokratisering av samfunnet.
 
-## Breddedemokrati
+### Breddedemokrati
 
 Breddedemokratiet i Norge må for øyeblikket fungere innenfor rammene som defineres av det representative demokratiet, men vi ønsker å gi folk en mulighet til å delta i utformingen av politikken også mellom valgene. Denne muligheten er ny, og er muliggjort av den teknologiske utviklingen. En annen fordel ved breddedemokratiet er at det medfører en økt gjennomsiktighet i den politiske prosessen.
 
@@ -67,7 +67,6 @@ Piratbegrepet er en reaksjon på overgrepene som følger i kjølvannet av mangel
 
 Våre prinsipper og standpunkter er organisert i sju søyler:
 
-
 - Demokrati og samfunn
 - Individ og personvern
 - Kommunikasjon og infrastruktur
@@ -97,7 +96,7 @@ I den grad private aktører skal forvalte ressurser og tjenester på vegne av de
 - Innføre 3-dagersfrist på innsyn etter offentleglova. Fylkesmannen skal ilegge dagbøter etter 5 dager ved overtredelse.
 - Kreve at digitale 3D-modeller vedlegges byggesøknader med ansvarsrett (tiltak uten ansvarsrett kan søkes uten 3D-modeller).
 - Innføre rådgivende nettbaserte avstemninger i alle landets kommuner og fylkeskommuner. Internett gjør det mulig å forenkle avstemninger uten uforholdsmessig stor ressursbruk.
-- La vanlige folk få legge frem forslag som Stortinget må ta stilling til dersom det oppnås et gitt antall signaturer (elektronisk).
+- La vanlige folk få legge frem forslag som Stortinget må ta stilling til dersom det oppnås et gitt antall signaturer fysisk og/eller digitalt.
 - Støtte «Holder de ord» og tilsvarende organisasjoner som registrerer hva de politiske partiene mener og hvordan de stemmer på Stortinget.
 - Straffeforfølge korrupsjon i offentlig sektor 20 år tilbake i tid.
 - Piratpartiet er imot generell bevæpning av politiet. Med bevæpning menes våpen. Pepperspray, batong og hund kommer ikke inn under bevæpning og vil være tillatt generelt for politi.
