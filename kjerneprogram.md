@@ -1,6 +1,6 @@
 # Piratpartiets kjerneprogram
 
-Vedtatt 17. mars 2013. Sist oppdatert 20. august 2017.
+Vedtatt 17. mars 2013. Sist oppdatert 8. desember 2017.
 
 ## Piratkodeksen
 
@@ -24,7 +24,21 @@ Piratpartiet vil stadfeste grunnleggende rettigheter, tilpasset informasjonsalde
 - Kollektive rettigheter, som arbeiderrettigheter og forbrukerrettigheter.
 - Infrastruktur for samhandling, som transport, kommunikasjon og betalingsformidling.
 
-Piratpartiet vil være en pådriver for en human asyl- og migrasjonspolitikk som bygger på menneskerettigheter og folkerettslige forpliktelser.
+### Innvandrings- og asylpolitikk 
+
+Piratpartiet vil være en pådriver for en human asyl- og migrasjonspolitikk som bygger på menneskerettigheter og folkerettslige forpliktelser. 
+
+Anvendelse av midlertidige tillatelser som innebærer at ungdom må reise fra Norge ved fylte 18 år, må avvikles. Praksisen som anvender kvoter for returnering av asylsøkere/flyktninger må endres slik at ikke svake grupper blir skadelidende. Kvaliteten på saksbehandling må forbedres, og alle vedtak må begrunnes med oppdatert korrekt informasjon. Asylsøknader som involverer barn skal prioriteres, samfunnet har et særlig ansvar for å gi trygghet og sikre rettigheter til barn på flukt. 
+
+Ved ankomst til Norge må flyktninger og asylsøkere få tilgang på tilfredsstillende psykologisk og somatisk helsetilbud. Papirløse og ikke-returnerbare asylsøkere må ha lik rett på helsehjelp som øvrige asylsøkere. 
+
+Personer uten norsk statsborgerskap som begår grov volds- eller vinningskriminalitet mister retten til oppholdstillatelse i Norge, og retur kan iverksettes straks etter rettskraftig dom. Ved fare for liv og helse ved retur til hjemland skal det søkes andre alternativer for utsendelse så raskt som mulig. 
+
+Integreringstiltak som gratis språkopplæring, arbeidstrening og utdanning må utvides og styrkes. For at hvert enkelt individ skal kunne få et fullverdig liv, samt bli produktive borgere, må tilrettelegging og aktiv deltakelse i samfunnet starte så tidlig som mulig. Rasisme og diskriminering må bekjempes på boligmarkedet, i arbeidslivet, på skolen, og i hverdagen. Men ytringsfriheten og faktabaserte debatter må ikke tilsidesettes for politisk korrekte holdninger eller for å skjerme grupperinger fra kritikk/påvirkning. 
+
+Stat og kommune må bli bedre til å samarbeide om bosetting av flyktninger slik at en i størst mulig grad unngår videre belastning i pressområder der infrastruktur, arbeidsmuligheter og andre viktige faktorer ikke innehar et tilfredsstillende nivå for integrering og livskvalitet. 
+
+Asylmottaksplasser skal være et statlig og kommunalt ansvar, og et antallet basisplasser som dekker antallet asylsøkere til Norge skal til enhver tid gjenspeile reelle behov med en akseptabel standard. Opphold på lukkede asylmottak skal begrenses i størst mulig grad, spesielt ovenfor barn.
 
 ### Inkluderende demokrati
 
