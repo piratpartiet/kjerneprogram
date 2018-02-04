@@ -1,11 +1,16 @@
 # Piratpartiets kjerneprogram
 
-Vedtatt 17. mars 2013. Sist oppdatert 7. mai 2017. 
+Vedtatt 17. mars 2013. Sist oppdatert 20. august 2017.
+
+## Piratkodeksen
+
+Piratkodeksen danner grunnlaget for kjerneprogrammet og valgprogrammet til Piratpartiet.
+
+Les Piratkodeksen her.
 
 ## Grunnlag for piratpolitikk
 
 > Piratpartiet mener kunnskap og kultur skal deles og gjenbrukes, at individets rettigheter skal forsvares, og at Internett muliggjør en mer direkte og demokratisk politisk modell.
-
 
 > Piratpartiet tilbyr ikke ferdige løsninger, men metodene for å finne dem.
 
@@ -30,6 +35,12 @@ Piratpartiet vil etablere demokratiske spilleregler som er tilpasset informasjon
 Piratpartiet legger vekt på at enkeltpersoner skal kunne ta informerte valg og tenke kritisk. Dette innebærer at pirater skaper sin egen politikk ut fra fakta og kunnskap som er samlet, uavhengig av hvorvidt avgjørelsen virker korrekt eller ikke i utgangspunktet. Piratpartiets posisjon er ikke basert på meningene til dem som er deres ansikt utad. Tidligere avgjørelser gjort av Piratpartiet er alltid åpne for endringer.
 
 En enkeltpersons rett til å være informert skal aldri forhindres. Piratpartiet mener at alle har en ubegrenset rett til å være involvert i beslutninger som angår dem og deres anliggender. Denne retten garanteres gjennom en styrking av demokratiet og økt åpenhet i politikk og forvaltning. Piratpartiet mener vi trenger en desentralisering av makt, og at demokratiet må styrkes i alle mulige former. Dette ønsker vi å gjøre med en demokratisk reform, der innbyggerne raskt og effektivt kan gi sine folkevalgte og forvaltningen sin mening i alle saker som angår dem. I dagens informasjonssamfunn er dette en samfunnsutvikling den teknologiske utviklingen kommer til å føre til, og Piratpartiet mener det ikke finnes noen grunn til å stritte imot nettets demokratisering av samfunnet.
+
+## Breddedemokrati
+
+Breddedemokratiet i Norge må for øyeblikket fungere innenfor rammene som defineres av det representative demokratiet, men vi ønsker å gi folk en mulighet til å delta i utformingen av politikken også mellom valgene. Denne muligheten er ny, og er muliggjort av den teknologiske utviklingen. En annen fordel ved breddedemokratiet er at det medfører en økt gjennomsiktighet i den politiske prosessen.
+
+Piratpartiet ønsker en grunnlovsendring der bindende folkeavstemninger får Grunnlovsvern.
 
 ## Bakgrunn
 
