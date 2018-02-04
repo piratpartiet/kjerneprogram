@@ -124,8 +124,8 @@ Vi mener også at infrastrukturene skal være distribuerte, nøytrale og allment
 - Sikre retten til privat kommunikasjon («lukkede konvolutter»), uavlyttede telefonsamtaler og kryptert informasjon.
 - Tillate og tilrettelegge for anonyme ytringer på nettet.
 - Etablere digitale forbrukerrettigheter.
-- Begrense private aktørers mulighet til å kreve tilgang til sensitiv informasjon registrert av det offentlige. For eksempel skal ikke forsikringsselskaper ha anledning til å be foreldre om samtykke til å hente ut informasjon fra PP-tjenesten som forutsetning for forsikringsavtale.
-- Avinor skal tilby tomflasker og gratis påfylling av vann etter sikkerhetskontroll.
+- Begrense private aktørers mulighet til å kreve tilgang til sensitiv informasjon registrert av det offentlige.
+- På flyplasser skal det tilbys gratis drikkevann etter sikkerhetskontrollen.
 - Ikke tillate «nakenskanning» på flyplasser.
 - Gjøre kildevernet absolutt.
 - Styrke ytrings- og varslingsfrihet. Gjengjeldelse fra arbeidsgiver straffes med fengsel i inntil seks år.
