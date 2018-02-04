@@ -224,6 +224,23 @@ Gode kunnskaper om informasjonsteknologiens muligheter og konsekvenser er avgjø
 
 ### Prinsipper
 
-Store bedrifter har fått altfor mye oppmerksomhet de siste årene. En stor andel av de yrkesaktive arbeider i små eller mellomstore bedrifter. Piratpartiet ønsker å forbedre forholdene for små og mellomstore bedrifter med forenklet rammeverk. Piratpartiet vil se på mulighetene som internett- og delingsøkonomien gir.
+Næringslivs- og økonomisk politikk skal tjene alle mennesker og samfunnet.
+
+Piratpartiet ønsker å støtte et aktivt og konkurranseutsatt marked med innovasjon og vekst som kan støtte velferd og andre grunnleggende aspekter av samfunnet som utdanning og helsetjenester. Pirater tror hverken på privatisering eller nasjonalisering, men søker heller å finne en balanse mellom disse to og finne ut basert på forskning og offentlig debatt hvilken metode som er mest effektiv.
+
+Piratpartiet ønsker å sikre at internasjonale og globale selskaper som opererer i Norge betaler sin rettferdige andel av sin skatt til Norge siden de har inntekten sin her og fordi de bruker norsk infrastruktur betalt av innbyggerne i Norge.
+
+Vi ønsker å ta skritt for å sørge for at overskuddet fra internasjonale selskaper ikke blir unndratt skatt gjennom overføringer til moder- og søsterselskap i utlandet.
+
+Offentlige finanser skal være åpne, transparente, lettleselige og tilgjengelig på nett. Statskassens regnskap og regnskapsføring for offentlige institusjoner skal være tilgjengelig i digital form på nettet i et omfang som ikke er i konflikt med individets privatliv.
+
+All beskatning skal skje på en slik måte at den gjøres synlig og forståelig for folk som betaler skatten.
+
+Juridiske enheters eierskap skal alltid være åpen og sporbar.
 
 ### Piratpartiet vil konkret
+
+- Forbedre forholdene for små og mellomstore bedrifter med forenklet rammeverk, og bedre støtteordninger. Vi ser at brorparten av nye arbeidsplasser skapes i SMB-bedriftene, og vi ønsker å støtte disse.
+- Tilrettelegge for mulighetene som internett- og delingsøkonomien gir.
+- Hindre norsk ratifisering av frihandelsavtalene TTIP og TISA mellom EU/EØS og USA, og CETA mellom EU/EØS og Canada slik disse foreligger i dag. Disse er en betydelig fare for arbeidsplasser og forbruker- og miljøstandarder. Vi krever åpne forhandlinger og folkeavstemning.
+- Hindre norsk ratifisering av de økonomiske partnerskapsavtalene EPAs (Economic Partnership Agreements) mellom EU og afrikanske stater slik disse foreligger i dag. Grunnen er at disse setter verne- og utviklingsbehovene til afrikanske stater til side til fordel for europeiske næringsinteresser. Vi krever åpne forhandlinger og folkeavstemning.
