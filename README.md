@@ -33,7 +33,7 @@ programmet.
    forstå.
 7. Trykk på "Commit changes".
 8. Du blir nå tatt til "Open a pull request"-skjermbildet. Dette er steget der
-   du beskriver for Programbanden **hvorfor** endringen du har utført bør
+   du beskriver for programkomitéen **hvorfor** endringen du har utført bør
    innlemmes (merges) i det vedtatte programmet.
 9. Skriv inn en kort og konsis tittel.
 10. Skriv inn en utfyllende og god beskrivelse av hvorfor endringen bør
@@ -54,24 +54,24 @@ såkalt [issue][gh-issues]. Denne oppretter du slik:
 
 --------------------------------------------------------------------------------
 
-## Opprettelse og valg av programbande
+## Opprettelse og valg av programkomité
 
-1. Programbanden består av medlemmer som velges på landsmøtet.
-2. Programbanden setter sammen et utkast til program på bakgrunn av det
+1. Programkomitéen består av medlemmer som velges på landsmøtet.
+2. Programkomitéen setter sammen et utkast til program på bakgrunn av det
    eksisterende programmet som tas opp blant alle medlemmene og
    behandles på landsmøtet.
-3. Programbanden kan kun gjøre redaksjonelle endringer av programmet og
+3. Programkomitéen kan kun gjøre redaksjonelle endringer av programmet og
    foreslå saker.
-4. Programbanden er ansvarlig for å arrangere avstemninger i løpet av
+4. Programkomitéen er ansvarlig for å arrangere avstemninger i løpet av
    arbeidet om saker på Internett.
-5. Programbanden samler sammen og offentliggjør innkomne forslag før
+5. Programkomitéen samler sammen og offentliggjør innkomne forslag før
    hvert landsmøte.
-6. Programbanden skal ha jevnlig kontakt med Sentralstyret.
+6. Programkomitéen skal ha jevnlig kontakt med Sentralstyret.
 
 --------------------------------------------------------------------------------
 
 [kjerneprogram]: kjerneprogram.md
-[programbande]: http://wiki.piratpartiet.no/index.php?title=Programbanden
+[programkomité]: http://wiki.piratpartiet.no/index.php?title=Programkomitéen
 [gh-issues]: https://help.github.com/articles/about-issues/
 [pir-issues]: https://github.com/piratpartiet/pir-kjerneprogram/issues
 [pr]: https://help.github.com/articles/about-pull-requests/
