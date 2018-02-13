@@ -1,11 +1,16 @@
 # Piratpartiets kjerneprogram
 
-Vedtatt 17. mars 2013. Sist oppdatert 7. mai 2017. 
+Vedtatt 17. mars 2013. Sist oppdatert 8. desember 2017.
+
+## Piratkodeksen
+
+Piratkodeksen danner grunnlaget for kjerneprogrammet og valgprogrammet til Piratpartiet.
+
+[Les Piratkodeksen her.](https://www.piratpartiet.no/kjerneprogrammet/politikken-var/piratkodeksen/)
 
 ## Grunnlag for piratpolitikk
 
 > Piratpartiet mener kunnskap og kultur skal deles og gjenbrukes, at individets rettigheter skal forsvares, og at Internett muliggjør en mer direkte og demokratisk politisk modell.
-
 
 > Piratpartiet tilbyr ikke ferdige løsninger, men metodene for å finne dem.
 
@@ -19,7 +24,21 @@ Piratpartiet vil stadfeste grunnleggende rettigheter, tilpasset informasjonsalde
 - Kollektive rettigheter, som arbeiderrettigheter og forbrukerrettigheter.
 - Infrastruktur for samhandling, som transport, kommunikasjon og betalingsformidling.
 
-Piratpartiet vil være en pådriver for en human asyl- og migrasjonspolitikk som bygger på menneskerettigheter og folkerettslige forpliktelser.
+### Innvandrings- og asylpolitikk 
+
+Piratpartiet vil være en pådriver for en human asyl- og migrasjonspolitikk som bygger på menneskerettigheter og folkerettslige forpliktelser. 
+
+Anvendelse av midlertidige tillatelser som innebærer at ungdom må reise fra Norge ved fylte 18 år, må avvikles. Praksisen som anvender kvoter for returnering av asylsøkere/flyktninger må endres slik at ikke svake grupper blir skadelidende. Kvaliteten på saksbehandling må forbedres, og alle vedtak må begrunnes med oppdatert korrekt informasjon. Asylsøknader som involverer barn skal prioriteres, samfunnet har et særlig ansvar for å gi trygghet og sikre rettigheter til barn på flukt. 
+
+Ved ankomst til Norge må flyktninger og asylsøkere få tilgang på tilfredsstillende psykologisk og somatisk helsetilbud. Papirløse og ikke-returnerbare asylsøkere må ha lik rett på helsehjelp som øvrige asylsøkere. 
+
+Personer uten norsk statsborgerskap som begår grov volds- eller vinningskriminalitet mister retten til oppholdstillatelse i Norge, og retur kan iverksettes straks etter rettskraftig dom. Ved fare for liv og helse ved retur til hjemland skal det søkes andre alternativer for utsendelse så raskt som mulig. 
+
+Integreringstiltak som gratis språkopplæring, arbeidstrening og utdanning må utvides og styrkes. For at hvert enkelt individ skal kunne få et fullverdig liv, samt bli produktive borgere, må tilrettelegging og aktiv deltakelse i samfunnet starte så tidlig som mulig. Rasisme og diskriminering må bekjempes på boligmarkedet, i arbeidslivet, på skolen, og i hverdagen. Men ytringsfriheten og faktabaserte debatter må ikke tilsidesettes for politisk korrekte holdninger eller for å skjerme grupperinger fra kritikk/påvirkning. 
+
+Stat og kommune må bli bedre til å samarbeide om bosetting av flyktninger slik at en i størst mulig grad unngår videre belastning i pressområder der infrastruktur, arbeidsmuligheter og andre viktige faktorer ikke innehar et tilfredsstillende nivå for integrering og livskvalitet. 
+
+Asylmottaksplasser skal være et statlig og kommunalt ansvar, og et antallet basisplasser som dekker antallet asylsøkere til Norge skal til enhver tid gjenspeile reelle behov med en akseptabel standard. Opphold på lukkede asylmottak skal begrenses i størst mulig grad, spesielt ovenfor barn.
 
 ### Inkluderende demokrati
 
@@ -57,10 +76,9 @@ Tidligere har vi hatt en balanse mellom ytringsfrihet og opphavsrett, men etter 
 
 Piratbegrepet er en reaksjon på overgrepene som følger i kjølvannet av mangel på demokratiske prosesser og respekt for grunnleggende demokratiske verdier.
 
-## Våre sju søyler
+## Våre åtte søyler
 
-Våre prinsipper og standpunkter er organisert i sju søyler:
-
+Våre prinsipper og standpunkter er organisert i åtte søyler:
 
 - Demokrati og samfunn
 - Individ og personvern
@@ -69,12 +87,13 @@ Våre prinsipper og standpunkter er organisert i sju søyler:
 - Forskning og innovasjon
 - Utdanning
 - Næringsliv og økonomi
+- Klima og miljø
 
 I hver søyle beskriver vi prinsippene våre og konkrete politiske standpunkter.
 
 ## 1. Demokrati og samfunn
 
->   Internett muliggjør et styresett som er nærmere det demokratiske idealet enn det vi har i dag.
+> Internett muliggjør et styresett som er nærmere det demokratiske idealet enn det vi har i dag.
 
 ### Prinsipper
 Det representative demokratiet vi har i Norge i dag har forbedringspotensiale for å oppnå intensjonen om folkestyre. Piratpartiet mener at Internett muliggjør et styresett som tillater borgere å være langt mer involvert i prosessene. Vi har sett tilfeller der særinteresser har hatt utilbørlig innflytelse på politikken, og det ønsker vi å endre. Åpenhet og innsyn, folkeavstemninger og felles utforming av lover vil endre norsk politikk dramatisk, hvor folket igjen bestemmer.
@@ -153,7 +172,7 @@ For at kommunikasjonen skal tjene formålet med å koble sammen individer, må i
 
 ## 4. Kunnskap og kultur
 
->   Piratpartiet ønsker at samfunnet får tilgang til mest mulig kunnskap og kultur, og ønsker at fagfellevurdert forskning skal avdekke virkemidler som gir oss det samfunnet vi ønsker.
+> Piratpartiet ønsker at samfunnet får tilgang til mest mulig kunnskap og kultur, og ønsker at fagfellevurdert forskning skal avdekke virkemidler som gir oss det samfunnet vi ønsker.
 
 ### Prinsipper
 
@@ -177,7 +196,7 @@ Opphavsrett var opprinnelig ment som et midlertidig monopol for å stimulere til
 
 ## 5. Forskning og innovasjon
 
->   Piratpartiet tror på forskning, utvikling og deling av resultater.
+> Piratpartiet tror på forskning, utvikling og deling av resultater.
 
 ### Prinsipper
 
@@ -234,7 +253,34 @@ All beskatning skal skje på en slik måte at den gjøres synlig og forståelig 
 Juridiske enheters eierskap skal alltid være åpen og sporbar.
 
 ### Piratpartiet vil konkret
+
 - Forbedre forholdene for små og mellomstore bedrifter med forenklet rammeverk, og bedre støtteordninger. Vi ser at brorparten av nye arbeidsplasser skapes i SMB-bedriftene, og vi ønsker å støtte disse.
 - Tilrettelegge for mulighetene som internett- og delingsøkonomien gir.
 - Hindre norsk ratifisering av frihandelsavtalene TTIP og TISA mellom EU/EØS og USA, og CETA mellom EU/EØS og Canada slik disse foreligger i dag. Disse er en betydelig fare for arbeidsplasser og forbruker- og miljøstandarder. Vi krever åpne forhandlinger og folkeavstemning.
 - Hindre norsk ratifisering av de økonomiske partnerskapsavtalene EPAs (Economic Partnership Agreements) mellom EU og afrikanske stater slik disse foreligger i dag. Grunnen er at disse setter verne- og utviklingsbehovene til afrikanske stater til side til fordel for europeiske næringsinteresser. Vi krever åpne forhandlinger og folkeavstemning.
+
+## 8. Klima og miljø
+
+### Prinsipper
+
+Vi må bygge et bærekraftig samfunn som ikke bidrar til ødeleggelse av klima og miljø, et samfunn som tilpasser energi- og ressursforbruk til et akseptabelt nivå. 
+
+Det er ikke ansvarlig å eksperimentere med vårt og andre arters eksistensgrunnlag, og derfor legges føre-var prinsippet til grunn for all klima- og miljøpolitikk der ufullstendig kunnskap eller handlinger kan ha potensielle irreversible og/eller katastrofale konsekvenser. Samtidig må en tilstrebe å få mer kunnskap der vår viten er ufullstendig, og en korreksjon av planlegging og adferd må iverksettes basert på fakta og ny viten. 
+
+Det er godt dokumentert og vitenskapelig konsensus om at menneskelig aktivitet er i ferd med å føre til alvorlige miljø- og klimaendringer, dette må hensynstas og handles etter. Vitenskap og teknologi vil ikke nødvendigvis alene redde verden, og kan i noen tilfeller utgjøre en risiko for katastrofale konsekvenser. Samfunnet må redusere unødvendig forbruk og forsøpling, og arbeide for å utvide bruk av og forskning på fornybar energi. 
+
+En forutsetning for å følge føre-var prinsippet og å leve i et bærekraftig samfunn er at økologiske og sosiale hensyn settes foran kommersielle interesser. Dagens økonomiske modell er i for stor grad styrt av et stadig økende forbruk, en situasjon som av fysiske årsaker ikke er bærekraftig på lang sikt.
+
+### Piratpartiet vil konkret
+
+- Jobbe for å redusere blant annet CO2-utslipp i henhold til internasjonale forpliktelser og samarbeid. 
+- Igangsette tiltak for å gjøre gjenvinning og annen ressurssparing til en arena for en økonomisk bærekraftig industri/næring. - innføre høyere avgifter på unødvendig emballasje i alle ledd. 
+- Satse på forskning på fornybare energikilder tilpasset norske forhold, samt bidra i internasjonal forskning på fusjon. 
+- Modernisere og utbygge eksisterende vann-, vind-, og bølgekraftverk, m.m. 
+- Fjerne bompenger og innføre en ny universell beskatning som skal finansiere en bedre offentlig transport. 
+- Redusere avgifter på små energieffektive biler, og øke avgifter på store energi-ineffektive biler. 
+- Prioritere energieffektivseende tiltak og overganger til miljøvennlig teknologi. 
+- Satse på en nasjonal utbygning av høyhastighetstog mellom de største norske byene. 
+- Kreve åpen og tilgjengelig informasjon om varedeklarasjoner og produksjonsmetoder slik at forurensere skal betale og forbrukere kan ta velinformerte valg. 
+- Stille strenge krav til bruk av dyr til forskning, og forby bruk av dyr til kosmetiske eller underholdningsmessige formål (eksempelvis tyrefekting). 
+- Innføre spareincentiver for husstander som tar i bruk energieffektiviserende tiltak, bidrar til privat matproduksjon, avleverer mindre søppel, m.m.
