@@ -216,6 +216,7 @@ Patenter, som statlig garanterte monopoler, skaper en kunstig innskrenkning av d
 - Øke offentlig støtte til forskning.
 - Kreve at offentlig finansiert forskning skal være bygd på vitenskapelige metoder.
 - Kreve at offentlig finansiert forskning må publiseres i åpent format, være fritt tilgjengelig og kunne brukes fritt.
+- Kreve at offentlig finansiert forskning skal være bygd på vitenskapelige metoder, uten ideologisk eller politisk påvirkning.
 - Data og programvare finansiert gjennom offentlige midler, helt eller delvis, skal benytte seg av fri eller åpen-kildekode-lisenser, og den modifiserte kildekoden må være åpen og fritt tilgjengelig og kunne brukes fritt.
 - Fjerne programvarepatenter, medisinske-, og biologiske patenter. Andre typer patenter skal vurderes.
 - Redusere vernetida på patentert miljøvennlig teknologi for å løse fremtidens miljøutfordringer.
