@@ -277,7 +277,8 @@ En forutsetning for å følge føre-var-prinsippet og å leve i et bærekraftig 
 ### Piratpartiet vil konkret
 
 - Jobbe for å redusere blant annet CO2-utslipp i henhold til internasjonale forpliktelser og samarbeid. 
-- Igangsette tiltak for å gjøre gjenvinning og annen ressurssparing til en arena for en økonomisk bærekraftig industri/næring. - innføre høyere avgifter på unødvendig emballasje i alle ledd. 
+- Igangsette tiltak for å gjøre gjenvinning og annen ressurssparing til en arena for en økonomisk bærekraftig industri/næring. 
+- Innføre høyere avgifter på unødvendig emballasje i alle ledd. 
 - Satse på forskning på fornybare energikilder tilpasset norske forhold, samt bidra i internasjonal forskning på fusjon. 
 - Modernisere og utbygge eksisterende vann-, vind-, og bølgekraftverk, m.m. 
 - Fjerne bompenger og innføre en ny universell beskatning som skal finansiere en bedre offentlig transport. 
