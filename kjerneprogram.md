@@ -38,7 +38,7 @@ Integreringstiltak som gratis språkopplæring, arbeidstrening og utdanning må 
 
 Stat og kommune må bli bedre til å samarbeide om bosetting av flyktninger slik at en i størst mulig grad unngår videre belastning i pressområder der infrastruktur, arbeidsmuligheter og andre viktige faktorer ikke innehar et tilfredsstillende nivå for integrering og livskvalitet. 
 
-Asylmottaksplasser skal være et statlig og kommunalt ansvar, og et antallet basisplasser som dekker antallet asylsøkere til Norge skal til enhver tid gjenspeile reelle behov med en akseptabel standard. Opphold på lukkede asylmottak skal begrenses i størst mulig grad, spesielt overfor barn.
+Asylmottaksplasser skal være et statlig og kommunalt ansvar, og et antall basisplasser som dekker antallet asylsøkere til Norge skal til enhver tid gjenspeile reelle behov med en akseptabel standard. Opphold på lukkede asylmottak skal begrenses i størst mulig grad, spesielt overfor barn.
 
 At noen har løyet eller har gjort feil på asylsøknaden skal ikke tillegges noen vekt et gitt antall år etter at asylsøknaden er avgjort og søkeren er godt integrert i samfunnet.
 
