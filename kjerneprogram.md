@@ -272,7 +272,7 @@ Det er ikke ansvarlig å eksperimentere med vårt og andre arters eksistensgrunn
 
 Det er godt dokumentert og vitenskapelig konsensus om at menneskelig aktivitet er i ferd med å føre til alvorlige miljø- og klimaendringer, dette må hensynstas og handles etter. Vitenskap og teknologi vil ikke nødvendigvis alene redde verden, og kan i noen tilfeller utgjøre en risiko for katastrofale konsekvenser. Samfunnet må redusere unødvendig forbruk og forsøpling, og arbeide for å utvide bruk av og forskning på fornybar energi. 
 
-En forutsetning for å følge føre-var prinsippet og å leve i et bærekraftig samfunn er at økologiske og sosiale hensyn settes foran kommersielle interesser. Dagens økonomiske modell er i for stor grad styrt av et stadig økende forbruk, en situasjon som av fysiske årsaker ikke er bærekraftig på lang sikt.
+En forutsetning for å følge føre-var-prinsippet og å leve i et bærekraftig samfunn er at økologiske og sosiale hensyn settes foran kommersielle interesser. Dagens økonomiske modell er i for stor grad styrt av et stadig økende forbruk, en situasjon som av fysiske årsaker ikke kan fortsette på lang sikt.
 
 ### Piratpartiet vil konkret
 
