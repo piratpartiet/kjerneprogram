@@ -38,7 +38,7 @@ Integreringstiltak som gratis språkopplæring, arbeidstrening og utdanning må 
 
 Stat og kommune må bli bedre til å samarbeide om bosetting av flyktninger slik at en i størst mulig grad unngår videre belastning i pressområder der infrastruktur, arbeidsmuligheter og andre viktige faktorer ikke innehar et tilfredsstillende nivå for integrering og livskvalitet. 
 
-Asylmottaksplasser skal være et statlig og kommunalt ansvar, og et antallet basisplasser som dekker antallet asylsøkere til Norge skal til enhver tid gjenspeile reelle behov med en akseptabel standard. Opphold på lukkede asylmottak skal begrenses i størst mulig grad, spesielt overfor barn.
+Asylmottaksplasser skal være et statlig og kommunalt ansvar, og et antall basisplasser som dekker antallet asylsøkere til Norge skal til enhver tid gjenspeile reelle behov med en akseptabel standard. Opphold på lukkede asylmottak skal begrenses i størst mulig grad, spesielt overfor barn.
 
 At noen har løyet eller har gjort feil på asylsøknaden skal ikke tillegges noen vekt et gitt antall år etter at asylsøknaden er avgjort og søkeren er godt integrert i samfunnet.
 
@@ -272,12 +272,13 @@ Det er ikke ansvarlig å eksperimentere med vårt og andre arters eksistensgrunn
 
 Det er godt dokumentert og vitenskapelig konsensus om at menneskelig aktivitet er i ferd med å føre til alvorlige miljø- og klimaendringer, dette må hensynstas og handles etter. Vitenskap og teknologi vil ikke nødvendigvis alene redde verden, og kan i noen tilfeller utgjøre en risiko for katastrofale konsekvenser. Samfunnet må redusere unødvendig forbruk og forsøpling, og arbeide for å utvide bruk av og forskning på fornybar energi. 
 
-En forutsetning for å følge føre-var prinsippet og å leve i et bærekraftig samfunn er at økologiske og sosiale hensyn settes foran kommersielle interesser. Dagens økonomiske modell er i for stor grad styrt av et stadig økende forbruk, en situasjon som av fysiske årsaker ikke er bærekraftig på lang sikt.
+En forutsetning for å følge føre-var-prinsippet og å leve i et bærekraftig samfunn er at økologiske og sosiale hensyn settes foran kommersielle interesser. Dagens økonomiske modell er i for stor grad styrt av et stadig økende forbruk, en situasjon som av fysiske årsaker ikke kan fortsette på lang sikt.
 
 ### Piratpartiet vil konkret
 
 - Jobbe for å redusere blant annet CO2-utslipp i henhold til internasjonale forpliktelser og samarbeid. 
-- Igangsette tiltak for å gjøre gjenvinning og annen ressurssparing til en arena for en økonomisk bærekraftig industri/næring. - innføre høyere avgifter på unødvendig emballasje i alle ledd. 
+- Igangsette tiltak for å gjøre gjenvinning og annen ressurssparing til en arena for en økonomisk bærekraftig industri/næring. 
+- Innføre høyere avgifter på unødvendig emballasje i alle ledd. 
 - Satse på forskning på fornybare energikilder tilpasset norske forhold, samt bidra i internasjonal forskning på fusjon. 
 - Modernisere og utbygge eksisterende vann-, vind-, og bølgekraftverk, m.m. 
 - Fjerne bompenger og innføre en ny universell beskatning som skal finansiere en bedre offentlig transport. 
