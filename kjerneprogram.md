@@ -164,6 +164,29 @@ I den vestlige verden har opphavsrett blitt en alvorlig trussel mot fri kommunik
 
 For at kommunikasjonen skal tjene formålet med å koble sammen individer, må infrastrukturen både være velutbygd og nøytral. Hverken vegvesenet, postverket eller nettleverandørene skal diktere hvordan infrastrukturen skal benyttes.
 
+### 3.1. Energipolitikk
+
+#### Eksport og eksportkabler
+Piratpartiet er kritiske til utbyggingen av eksportkabler for kraft som pågår til Tyskland og England.
+Kostnader for utbygging av eksportkabler skal ikke overføres til forbruker. Piratpartiet er kritisk til overnasjonal styring, og forholdet til ACER skal avklares med en folkeavstemning.
+
+#### Kraftutbygging
+I forbindelse med kraftutbygging må naturen beskyttes mot ødeleggende inngrep. Ved eventuell driftsstans/avvikling
+av utbygd kraft skal naturen tilbakeføres i samme stand som før inngrepet.
+
+#### Alternative energikilder
+Piratpartiet ønsker å legge til rette for å undersøke og utrede muligheter for ulike energikilder, samt at det bevilges
+mer forskningsmidler til dette.
+
+#### Ny strømtariff
+Piratpartiet er uenig i at det skal knyttes et nytt tariffsystem (“effekttariff”) til de nye strømmålerne som er installert.
+Subsidiering av kraftkrevende industri kan fortsette under forutsetning av at overskudd fra virksomheten beskattes i
+Norge.
+
+#### Lovgivning og strømhandel
+Den interne organiseringen av norsk kraftbransje bør endres. Effekten av liberaliseringen av kraftmarkedet må
+analyseres, utviklingen må om nødvendig reverseres til beste for norske innbyggere, natur og miljø.
+
 ### Piratpartiet vil konkret
 
 - Tilby tilgang til et åpent og trygt Internett for borgerne (gjennom oppdatert mobilnett eller Wi-Fi) i offentlige soner.
