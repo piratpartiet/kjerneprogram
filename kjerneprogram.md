@@ -1,6 +1,6 @@
 # Piratpartiets kjerneprogram
 
-Vedtatt 17. mars 2013. Sist oppdatert 8. desember 2017.
+Vedtatt 17. mars 2013. Sist oppdatert 9. desember 2018.
 
 ## Piratkodeksen
 
@@ -111,6 +111,10 @@ I den grad private aktører skal forvalte ressurser og tjenester på vegne av de
 - Kreve at kontrakter mellom det offentlige og private publiseres i åpent format.
 - Publisere offentlige data med gjenbrukbar lisens, bare personvern og rikets sikkerhet kan stanse publisering.
 - Innføre 3-dagersfrist på innsyn etter offentleglova. Fylkesmannen skal ilegge dagbøter etter 5 dager ved overtredelse.
+- Alle offentlige virksomheter skal ha tilgang på fagkompetanse som jobber dedikert med anskaffelser og
+implementering av IKT. Disse skal ha fagkompetanse på kundesiden og være nøytrale/habile.
+- Til enhver tid ha oversikt over bruk av underleverandører ved anskaffelse og drift av IT-systemer som behandler
+sensitive personopplysninger (gjennom databehandleravtaler).
 - Kreve at digitale 3D-modeller vedlegges byggesøknader med ansvarsrett (tiltak uten ansvarsrett kan søkes uten 3D-modeller).
 - Innføre rådgivende nettbaserte avstemninger i alle landets kommuner og fylkeskommuner. Internett gjør det mulig å forenkle avstemninger uten uforholdsmessig stor ressursbruk.
 - La vanlige folk få legge frem forslag som Stortinget må ta stilling til dersom det oppnås et gitt antall signaturer fysisk og/eller digitalt.
@@ -162,12 +166,24 @@ For at kommunikasjonen skal tjene formålet med å koble sammen individer, må i
 
 ### Piratpartiet vil konkret
 
+- Tilby tilgang til et åpent og trygt Internett for borgerne (gjennom oppdatert mobilnett eller Wi-Fi) i offentlige soner.
 - Lovfeste tilgang til Internett. For at borgere skal kunne delta i samfunnet i dag må de ha tilgang til Internett.
+- Utnytte alle fordelene ved å følge den nye nasjonale «ledningsforskriften».
+- Legge til rette for Wi-Fi og kommende generasjoner mobilnett.
+- Legge til rette for bredbåndutsbygging.
 - Øke nettutbygging med spesiell fokus på fiberutbygging. Øke ambisjonsnivået mht. netthastigheter, og ta med både opp- og ned-hastigheter i kravene.
 - Forby kvoter på bredbånd mobilt eller trådet.
 - Reservere frekvensområder til fri benyttelse (eksempler: Wi-Fi, «white spaces»).
 - Kreve bruk av leverandørnøytrale fil- og dataformater i offentlig sektor.
 - Kreve at alt av offentlig finansierte kart gjøres fritt tilgjengelig for muligheter for gjenbruk.
+- Alle innbyggere skal få tildelt en elektronisk identitet som kan benyttes for alle kommunale tjenester, integrert med
+de nasjonale offentlige tjenestene.
+- Ha et program for kommunal faglig støtte til alle offentlige og private legekontorer og helsestasjoner i deres tilnærming til trygg
+digitalisering.
+- Alle offentlige virksomheter skal ha et personvernombud, som sammen med fagkompetansen på IKT (se ovenfor) skal sikre
+prosedyrene for legekontor, inkludert kommunens fastleger og andre kommunale instanser som behandler sensitive
+personopplysninger (barnevern, sosialtjeneste, helsestasjoner, skole, barnehage og så videre), og som stiller sin kompetanse til
+rådighet for disse instansene
 - Innføre kostnadstak på mobiltelefon ved roaming.
 - Kreve brukerstyrte kostnadstak for mobilabonnement.
 - Tilrettelegge for anonyme og distribuerte betalingsløsninger, både fysiske, tradisjonelle og nye løsninger over Internett.
@@ -236,6 +252,11 @@ Gode kunnskaper om informasjonsteknologiens muligheter og konsekvenser er avgjø
 - Unngå særbehandling av enkelte produktleverandører i skoleverket og det offentlige.
 - Sørge for frie og åpne læremidler til alle fag i grunnopplæringa.
 - Lovfeste gratis privatisteksamen i videregående opplæring.
+- Alle skoler skal tilby opplæring i koding og ha et tydelig fokus på IKT. Alle elever må få like tilbud og muligheter
+uavhengig av hvor de bor og hvilken skole de går på.
+- Skoler skal lære elevene å håndtere ubehagelige opplevelser og innhold som er ment for voksne fremfor å bruke
+«sensur-systemer». Elevene vil uansett ha behov for kompetanse og håndteringsevne.
+- Det skal være fokus på kildekritikk i digitale medier i skolene
 
 ## 7. Næringsliv og økonomi
 
