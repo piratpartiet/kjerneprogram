@@ -185,7 +185,7 @@ digitalisering.
 - Alle offentlige virksomheter skal ha et personvernombud, som sammen med fagkompetansen på IKT (se ovenfor) skal sikre
 prosedyrene for legekontor, inkludert kommunens fastleger og andre kommunale instanser som behandler sensitive
 personopplysninger (barnevern, sosialtjeneste, helsestasjoner, skole, barnehage og så videre), og som stiller sin kompetanse til
-rådighet for disse instansene
+rådighet for disse instansene.
 - Innføre kostnadstak på mobiltelefon ved roaming.
 - Kreve brukerstyrte kostnadstak for mobilabonnement.
 - Tilrettelegge for anonyme og distribuerte betalingsløsninger, både fysiske, tradisjonelle og nye løsninger over Internett.
@@ -258,7 +258,7 @@ Gode kunnskaper om informasjonsteknologiens muligheter og konsekvenser er avgjø
 uavhengig av hvor de bor og hvilken skole de går på.
 - Skoler skal lære elevene å håndtere ubehagelige opplevelser og innhold som er ment for voksne fremfor å bruke
 «sensur-systemer». Elevene vil uansett ha behov for kompetanse og håndteringsevne.
-- Det skal være fokus på kildekritikk i digitale medier i skolene
+- Det skal være fokus på kildekritikk i digitale medier i skolene.
 
 ## 7. Næringsliv og økonomi
 
