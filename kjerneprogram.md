@@ -1,6 +1,6 @@
 # Piratpartiets kjerneprogram
 
-Vedtatt 17. mars 2013. Sist oppdatert 8. desember 2017.
+Vedtatt 17. mars 2013. Sist oppdatert 9. desember 2018.
 
 ## Piratkodeksen
 
@@ -58,27 +58,6 @@ Breddedemokratiet i Norge må for øyeblikket fungere innenfor rammene som defin
 
 Piratpartiet ønsker en grunnlovsendring der bindende folkeavstemninger får Grunnlovsvern.
 
-## Bakgrunn
-
-Piratpartiet ser at «den digitale revolusjon» så langt har hatt en demokratiserende effekt. Internett gjør at enkeltindividet får mer makt, myndighet, frihet og kunnskap. Det er blitt noe vanskeligere for sterke stater og kommersielle foretak å styre flyten av informasjon. Den «digitale revolusjonen» har også sine skyggesider. Samfunnsutviklingen virker generelt opprivende på gamle forretningsmodeller og enkelte bransjer og profesjoner, og det er alltid folk som ikke ønsker omstillinger velkommen. Piratpartiet mener at dette er en nødvendig kostnad å ta – det er umulig å stoppe utviklingen for å ivareta særinteresser.
-
-Samtidig muliggjør og trivialiserer den digitale revolusjonen overvåkning, og dette er en alvorlig motvekt til Internetts demokratiserende virkning. Det er lett å ta dagens personlige frihet og et fritt og åpent Internett for gitt. Piratpartiet ser at dette er verdier vi lett kan miste dersom vi lar særinteresser få styre den digitale agendaen. Piratpartiet mener at det er av overordnet betydning å få inn folk på Stortinget som forstår den digitale utviklingen. Piratpartiet mener at personlig frihet og et fritt og åpent Internett per i dag er en av de viktigste sakene for fremtiden med tanke på næringspolitikk, den teknologiske utviklingen og forbedringen av demokratiet.
-
-## Hva er en pirat?
-
-En pirat, i ordets tradisjonelle betydning, er en væpnet maritim raner. Piratpartiet tar klar avstand fra ekte piratvirksomhet og organisert kriminalitet for øvrig. I senere tid har begrepet «pirater» blitt brukt om folk som bedriver fildeling av opphavsrettsbeskyttede filer seg imellom.
-
-Tidligere har vi hatt en balanse mellom ytringsfrihet og opphavsrett, men etter flere reformer har ytringsfriheten blitt klart svekket ved at forbrukerne har mistet sin likestilte rett til å dele lovlig ervervede åndsverk med nære venner og familie. Myndigheter og kommersielle krefter trekker samfunnet i en retning av mer sensur, overvåkning og kontroll, et samfunn som ikke samsvarer med demokratiske idealer. De som verdsetter ytringsfrihet og andre grunnleggende prinsipper har blitt avfeid som «pirater». Hvis det å verdsette grunnleggende rettigheter er å være pirat, da er vi pirater. En pirat i vår forstand av ordet, er en person som
-
-- verdsetter grunnlovsfestede menneskerettigheter, også når samfunnet endres av teknologi
-- ønsker et fritt og åpent Internett
-- ønsker et samfunn hvor enkeltindividets muligheter og rettigheter ikke blir vilkårlig hemmet av kommersielle særinteresser
-- våger å stille spørsmålstegn ved «etablerte sannheter»
-- mener det er uheldig med forretningsmodeller som baserer inntjeningen på en kunstig skapt knapphet
-- ikke anser det som «tyveri» å omgå etablerte distribusjonsmonopoler som er utgått på dato
-
-Piratbegrepet er en reaksjon på overgrepene som følger i kjølvannet av mangel på demokratiske prosesser og respekt for grunnleggende demokratiske verdier.
-
 ## Våre åtte søyler
 
 Våre prinsipper og standpunkter er organisert i åtte søyler:
@@ -111,6 +90,10 @@ I den grad private aktører skal forvalte ressurser og tjenester på vegne av de
 - Kreve at kontrakter mellom det offentlige og private publiseres i åpent format.
 - Publisere offentlige data med gjenbrukbar lisens, bare personvern og rikets sikkerhet kan stanse publisering.
 - Innføre 3-dagersfrist på innsyn etter offentleglova. Fylkesmannen skal ilegge dagbøter etter 5 dager ved overtredelse.
+- Alle offentlige virksomheter skal ha tilgang på fagkompetanse som jobber dedikert med anskaffelser og
+implementering av IKT. Disse skal ha fagkompetanse på kundesiden og være nøytrale/habile.
+- Til enhver tid ha oversikt over bruk av underleverandører ved anskaffelse og drift av IT-systemer som behandler
+sensitive personopplysninger (gjennom databehandleravtaler).
 - Kreve at digitale 3D-modeller vedlegges byggesøknader med ansvarsrett (tiltak uten ansvarsrett kan søkes uten 3D-modeller).
 - Innføre rådgivende nettbaserte avstemninger i alle landets kommuner og fylkeskommuner. Internett gjør det mulig å forenkle avstemninger uten uforholdsmessig stor ressursbruk.
 - La vanlige folk få legge frem forslag som Stortinget må ta stilling til dersom det oppnås et gitt antall signaturer fysisk og/eller digitalt.
@@ -160,14 +143,49 @@ I den vestlige verden har opphavsrett blitt en alvorlig trussel mot fri kommunik
 
 For at kommunikasjonen skal tjene formålet med å koble sammen individer, må infrastrukturen både være velutbygd og nøytral. Hverken vegvesenet, postverket eller nettleverandørene skal diktere hvordan infrastrukturen skal benyttes.
 
+### 3.1. Energipolitikk
+
+#### Eksport og eksportkabler
+Piratpartiet er kritiske til utbyggingen av eksportkabler for kraft som pågår til Tyskland og England.
+Kostnader for utbygging av eksportkabler skal ikke overføres til forbruker. Piratpartiet er kritisk til overnasjonal styring, og forholdet til ACER skal avklares med en folkeavstemning.
+
+#### Kraftutbygging
+I forbindelse med kraftutbygging må naturen beskyttes mot ødeleggende inngrep. Ved eventuell driftsstans/avvikling
+av utbygd kraft skal naturen tilbakeføres i samme stand som før inngrepet.
+
+#### Alternative energikilder
+Piratpartiet ønsker å legge til rette for å undersøke og utrede muligheter for ulike energikilder, samt at det bevilges
+mer forskningsmidler til dette.
+
+#### Ny strømtariff
+Piratpartiet er uenig i at det skal knyttes et nytt tariffsystem (“effekttariff”) til de nye strømmålerne som er installert.
+Subsidiering av kraftkrevende industri kan fortsette under forutsetning av at overskudd fra virksomheten beskattes i
+Norge.
+
+#### Lovgivning og strømhandel
+Den interne organiseringen av norsk kraftbransje bør endres. Effekten av liberaliseringen av kraftmarkedet må
+analyseres, utviklingen må om nødvendig reverseres til beste for norske innbyggere, natur og miljø.
+
 ### Piratpartiet vil konkret
 
+- Tilby tilgang til et åpent og trygt Internett for borgerne (gjennom oppdatert mobilnett eller Wi-Fi) i offentlige soner.
 - Lovfeste tilgang til Internett. For at borgere skal kunne delta i samfunnet i dag må de ha tilgang til Internett.
+- Utnytte alle fordelene ved å følge den nye nasjonale «ledningsforskriften».
+- Legge til rette for Wi-Fi og kommende generasjoner mobilnett.
+- Legge til rette for bredbåndutsbygging.
 - Øke nettutbygging med spesiell fokus på fiberutbygging. Øke ambisjonsnivået mht. netthastigheter, og ta med både opp- og ned-hastigheter i kravene.
 - Forby kvoter på bredbånd mobilt eller trådet.
 - Reservere frekvensområder til fri benyttelse (eksempler: Wi-Fi, «white spaces»).
 - Kreve bruk av leverandørnøytrale fil- og dataformater i offentlig sektor.
 - Kreve at alt av offentlig finansierte kart gjøres fritt tilgjengelig for muligheter for gjenbruk.
+- Alle innbyggere skal få tildelt en elektronisk identitet som kan benyttes for alle kommunale tjenester, integrert med
+de nasjonale offentlige tjenestene.
+- Ha et program for kommunal faglig støtte til alle offentlige og private legekontorer og helsestasjoner i deres tilnærming til trygg
+digitalisering.
+- Alle offentlige virksomheter skal ha et personvernombud, som sammen med fagkompetansen på IKT (se ovenfor) skal sikre
+prosedyrene for legekontor, inkludert kommunens fastleger og andre kommunale instanser som behandler sensitive
+personopplysninger (barnevern, sosialtjeneste, helsestasjoner, skole, barnehage og så videre), og som stiller sin kompetanse til
+rådighet for disse instansene
 - Innføre kostnadstak på mobiltelefon ved roaming.
 - Kreve brukerstyrte kostnadstak for mobilabonnement.
 - Tilrettelegge for anonyme og distribuerte betalingsløsninger, både fysiske, tradisjonelle og nye løsninger over Internett.
@@ -236,6 +254,11 @@ Gode kunnskaper om informasjonsteknologiens muligheter og konsekvenser er avgjø
 - Unngå særbehandling av enkelte produktleverandører i skoleverket og det offentlige.
 - Sørge for frie og åpne læremidler til alle fag i grunnopplæringa.
 - Lovfeste gratis privatisteksamen i videregående opplæring.
+- Alle skoler skal tilby opplæring i koding og ha et tydelig fokus på IKT. Alle elever må få like tilbud og muligheter
+uavhengig av hvor de bor og hvilken skole de går på.
+- Skoler skal lære elevene å håndtere ubehagelige opplevelser og innhold som er ment for voksne fremfor å bruke
+«sensur-systemer». Elevene vil uansett ha behov for kompetanse og håndteringsevne.
+- Det skal være fokus på kildekritikk i digitale medier i skolene
 
 ## 7. Næringsliv og økonomi
 
