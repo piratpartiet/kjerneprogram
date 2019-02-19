@@ -24,40 +24,6 @@ Piratpartiet vil stadfeste grunnleggende rettigheter, tilpasset informasjonsalde
 - Kollektive rettigheter, som arbeiderrettigheter og forbrukerrettigheter.
 - Infrastruktur for samhandling, som transport, kommunikasjon og betalingsformidling.
 
-### Innvandrings- og asylpolitikk 
-
-Piratpartiet vil være en pådriver for en human asyl- og migrasjonspolitikk som bygger på menneskerettigheter og folkerettslige forpliktelser. 
-
-Anvendelse av midlertidige tillatelser som innebærer at ungdom må reise fra Norge ved fylte 18 år, må avvikles. Praksisen som anvender kvoter for returnering av asylsøkere/flyktninger må endres slik at ikke svake grupper blir skadelidende. Kvaliteten på saksbehandling må forbedres, og alle vedtak må begrunnes med oppdatert korrekt informasjon. Asylsøknader som involverer barn skal prioriteres, samfunnet har et særlig ansvar for å gi trygghet og sikre rettigheter til barn på flukt. 
-
-Ved ankomst til Norge må flyktninger og asylsøkere få tilgang på tilfredsstillende psykologisk og somatisk helsetilbud. Papirløse og ikke-returnerbare asylsøkere må ha lik rett på helsehjelp som øvrige asylsøkere. 
-
-Personer uten norsk statsborgerskap som begår grov volds- eller vinningskriminalitet mister retten til oppholdstillatelse i Norge, og retur kan iverksettes straks etter rettskraftig dom. Ved fare for liv og helse ved retur til hjemland skal det søkes andre alternativer for utsendelse så raskt som mulig. 
-
-Integreringstiltak som gratis språkopplæring, arbeidstrening og utdanning må utvides og styrkes. For at hvert enkelt individ skal kunne få et fullverdig liv, samt bli produktive borgere, må tilrettelegging og aktiv deltakelse i samfunnet starte så tidlig som mulig. Rasisme og diskriminering må bekjempes på boligmarkedet, i arbeidslivet, på skolen, og i hverdagen. Men ytringsfriheten og faktabaserte debatter må ikke tilsidesettes for politisk korrekte holdninger eller for å skjerme grupperinger fra kritikk/påvirkning. 
-
-Stat og kommune må bli bedre til å samarbeide om bosetting av flyktninger slik at en i størst mulig grad unngår videre belastning i pressområder der infrastruktur, arbeidsmuligheter og andre viktige faktorer ikke innehar et tilfredsstillende nivå for integrering og livskvalitet. 
-
-Asylmottaksplasser skal være et statlig og kommunalt ansvar, og et antall basisplasser som dekker antallet asylsøkere til Norge skal til enhver tid gjenspeile reelle behov med en akseptabel standard. Opphold på lukkede asylmottak skal begrenses i størst mulig grad, spesielt overfor barn.
-
-At noen har løyet eller har gjort feil på asylsøknaden skal ikke tillegges noen vekt et gitt antall år etter at asylsøknaden er avgjort og søkeren er godt integrert i samfunnet.
-
-### Inkluderende demokrati
-
-Demokratiets verdier ligger i å sikre frihet. Når demokratiet ikke gjør det, mister systemet sin legitimitet.
-
-Piratpartiet vil etablere demokratiske spilleregler som er tilpasset informasjonsalderen. Internett gir muligheter til nye og bedre måter å organisere de politiske prosessene for best mulig å representere folkets interesser.
-
-Piratpartiet legger vekt på at enkeltpersoner skal kunne ta informerte valg og tenke kritisk. Dette innebærer at pirater skaper sin egen politikk ut fra fakta og kunnskap som er samlet, uavhengig av hvorvidt avgjørelsen virker korrekt eller ikke i utgangspunktet. Piratpartiets posisjon er ikke basert på meningene til dem som er deres ansikt utad. Tidligere avgjørelser gjort av Piratpartiet er alltid åpne for endringer.
-
-En enkeltpersons rett til å være informert skal aldri forhindres. Piratpartiet mener at alle har en ubegrenset rett til å være involvert i beslutninger som angår dem og deres anliggender. Denne retten garanteres gjennom en styrking av demokratiet og økt åpenhet i politikk og forvaltning. Piratpartiet mener vi trenger en desentralisering av makt, og at demokratiet må styrkes i alle mulige former. Dette ønsker vi å gjøre med en demokratisk reform, der innbyggerne raskt og effektivt kan gi sine folkevalgte og forvaltningen sin mening i alle saker som angår dem. I dagens informasjonssamfunn er dette en samfunnsutvikling den teknologiske utviklingen kommer til å føre til, og Piratpartiet mener det ikke finnes noen grunn til å stritte imot nettets demokratisering av samfunnet.
-
-### Flytende demokrati
-
-Flytende demokrati i Norge må for øyeblikket fungere innenfor rammene som defineres av det representative demokratiet, men vi ønsker å gi folk en mulighet til å delta i utformingen av politikken også mellom valgene. Denne muligheten er ny, og er muliggjort av den teknologiske utviklingen. En annen fordel ved flytende demokrati er at det medfører en økt gjennomsiktighet i den politiske prosessen.
-
-Piratpartiet ønsker en grunnlovsendring der bindende folkeavstemninger får Grunnlovsvern.
-
 ## Våre åtte søyler
 
 Våre prinsipper og standpunkter er organisert i åtte søyler:
@@ -84,6 +50,36 @@ Piratpartiet vil at borgere skal ha tilgang til all relevant informasjon for å 
 
 I den grad private aktører skal forvalte ressurser og tjenester på vegne av det offentlige, må det stilles samme krav til offentligrettslige saksbehandlingsprinsipp og krav til god forvaltningsskikk.
 
+### 1.1. Flytende demokrati
+
+Demokratiets verdier ligger i å sikre frihet. Når demokratiet ikke gjør det, mister systemet sin legitimitet.
+
+Piratpartiet vil etablere demokratiske spilleregler som er tilpasset informasjonsalderen. Internett gir muligheter til nye og bedre måter å organisere de politiske prosessene for best mulig å representere folkets interesser.
+
+Piratpartiet legger vekt på at enkeltpersoner skal kunne ta informerte valg og tenke kritisk. Dette innebærer at pirater skaper sin egen politikk ut fra fakta og kunnskap som er samlet, uavhengig av hvorvidt avgjørelsen virker korrekt eller ikke i utgangspunktet. Piratpartiets posisjon er ikke basert på meningene til dem som er deres ansikt utad. Tidligere avgjørelser gjort av Piratpartiet er alltid åpne for endringer.
+
+En enkeltpersons rett til å være informert skal aldri forhindres. Piratpartiet mener at alle har en ubegrenset rett til å være involvert i beslutninger som angår dem og deres anliggender. Denne retten garanteres gjennom en styrking av demokratiet og økt åpenhet i politikk og forvaltning. Piratpartiet mener vi trenger en desentralisering av makt, og at demokratiet må styrkes i alle mulige former. Dette ønsker vi å gjøre med en demokratisk reform, der innbyggerne raskt og effektivt kan gi sine folkevalgte og forvaltningen sin mening i alle saker som angår dem. I dagens informasjonssamfunn er dette en samfunnsutvikling den teknologiske utviklingen kommer til å føre til, og Piratpartiet mener det ikke finnes noen grunn til å stritte imot nettets demokratisering av samfunnet.
+
+Flytende demokrati i Norge må for øyeblikket fungere innenfor rammene som defineres av det representative demokratiet, men vi ønsker å gi folk en mulighet til å delta i utformingen av politikken også mellom valgene. Denne muligheten er ny, og er muliggjort av den teknologiske utviklingen. En annen fordel ved flytende demokrati er at det medfører en økt gjennomsiktighet i den politiske prosessen.
+
+### 1.2. Innvandrings- og asylpolitikk 
+
+Piratpartiet vil være en pådriver for en human asyl- og migrasjonspolitikk som bygger på menneskerettigheter og folkerettslige forpliktelser. 
+
+Anvendelse av midlertidige tillatelser som innebærer at ungdom må reise fra Norge ved fylte 18 år, må avvikles. Praksisen som anvender kvoter for returnering av asylsøkere/flyktninger må endres slik at ikke svake grupper blir skadelidende. Kvaliteten på saksbehandling må forbedres, og alle vedtak må begrunnes med oppdatert korrekt informasjon. Asylsøknader som involverer barn skal prioriteres, samfunnet har et særlig ansvar for å gi trygghet og sikre rettigheter til barn på flukt. 
+
+Ved ankomst til Norge må flyktninger og asylsøkere få tilgang på tilfredsstillende psykologisk og somatisk helsetilbud. Papirløse og ikke-returnerbare asylsøkere må ha lik rett på helsehjelp som øvrige asylsøkere. 
+
+Personer uten norsk statsborgerskap som begår grov volds- eller vinningskriminalitet mister retten til oppholdstillatelse i Norge, og retur kan iverksettes straks etter rettskraftig dom. Ved fare for liv og helse ved retur til hjemland skal det søkes andre alternativer for utsendelse så raskt som mulig. 
+
+Integreringstiltak som gratis språkopplæring, arbeidstrening og utdanning må utvides og styrkes. For at hvert enkelt individ skal kunne få et fullverdig liv, samt bli produktive borgere, må tilrettelegging og aktiv deltakelse i samfunnet starte så tidlig som mulig. Rasisme og diskriminering må bekjempes på boligmarkedet, i arbeidslivet, på skolen, og i hverdagen. Men ytringsfriheten og faktabaserte debatter må ikke tilsidesettes for politisk korrekte holdninger eller for å skjerme grupperinger fra kritikk/påvirkning. 
+
+Stat og kommune må bli bedre til å samarbeide om bosetting av flyktninger slik at en i størst mulig grad unngår videre belastning i pressområder der infrastruktur, arbeidsmuligheter og andre viktige faktorer ikke innehar et tilfredsstillende nivå for integrering og livskvalitet. 
+
+Asylmottaksplasser skal være et statlig og kommunalt ansvar, og et antall basisplasser som dekker antallet asylsøkere til Norge skal til enhver tid gjenspeile reelle behov med en akseptabel standard. Opphold på lukkede asylmottak skal begrenses i størst mulig grad, spesielt overfor barn.
+
+At noen har løyet eller har gjort feil på asylsøknaden skal ikke tillegges noen vekt et gitt antall år etter at asylsøknaden er avgjort og søkeren er godt integrert i samfunnet.
+
 ### Piratpartiet vil konkret
 
 - Gjøre offentlige postjournaler tilgjengelig på Internett uten å måtte be om innsyn.
@@ -95,6 +91,7 @@ implementering av IKT. Disse skal ha fagkompetanse på kundesiden og være nøyt
 - Til enhver tid ha oversikt over bruk av underleverandører ved anskaffelse og drift av IT-systemer som behandler
 sensitive personopplysninger (gjennom databehandleravtaler).
 - Kreve at digitale 3D-modeller vedlegges byggesøknader med ansvarsrett (tiltak uten ansvarsrett kan søkes uten 3D-modeller).
+- Gi bindende folkeavstemninger grunnlovsvern.
 - Innføre rådgivende nettbaserte avstemninger i alle landets kommuner og fylkeskommuner. Internett gjør det mulig å forenkle avstemninger uten uforholdsmessig stor ressursbruk.
 - La vanlige folk få legge frem forslag som Stortinget må ta stilling til dersom det oppnås et gitt antall signaturer fysisk og/eller digitalt.
 - Støtte «Holder de ord» og tilsvarende organisasjoner som registrerer hva de politiske partiene mener og hvordan de stemmer på Stortinget.
