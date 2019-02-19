@@ -52,9 +52,9 @@ Piratpartiet legger vekt på at enkeltpersoner skal kunne ta informerte valg og 
 
 En enkeltpersons rett til å være informert skal aldri forhindres. Piratpartiet mener at alle har en ubegrenset rett til å være involvert i beslutninger som angår dem og deres anliggender. Denne retten garanteres gjennom en styrking av demokratiet og økt åpenhet i politikk og forvaltning. Piratpartiet mener vi trenger en desentralisering av makt, og at demokratiet må styrkes i alle mulige former. Dette ønsker vi å gjøre med en demokratisk reform, der innbyggerne raskt og effektivt kan gi sine folkevalgte og forvaltningen sin mening i alle saker som angår dem. I dagens informasjonssamfunn er dette en samfunnsutvikling den teknologiske utviklingen kommer til å føre til, og Piratpartiet mener det ikke finnes noen grunn til å stritte imot nettets demokratisering av samfunnet.
 
-### Breddedemokrati
+### Flytende demokrati
 
-Breddedemokratiet i Norge må for øyeblikket fungere innenfor rammene som defineres av det representative demokratiet, men vi ønsker å gi folk en mulighet til å delta i utformingen av politikken også mellom valgene. Denne muligheten er ny, og er muliggjort av den teknologiske utviklingen. En annen fordel ved breddedemokratiet er at det medfører en økt gjennomsiktighet i den politiske prosessen.
+Flytende demokrati i Norge må for øyeblikket fungere innenfor rammene som defineres av det representative demokratiet, men vi ønsker å gi folk en mulighet til å delta i utformingen av politikken også mellom valgene. Denne muligheten er ny, og er muliggjort av den teknologiske utviklingen. En annen fordel ved flytende demokrati er at det medfører en økt gjennomsiktighet i den politiske prosessen.
 
 Piratpartiet ønsker en grunnlovsendring der bindende folkeavstemninger får Grunnlovsvern.
 
