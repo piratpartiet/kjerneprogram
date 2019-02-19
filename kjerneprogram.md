@@ -50,6 +50,24 @@ Piratpartiet vil at borgere skal ha tilgang til all relevant informasjon for å 
 
 I den grad private aktører skal forvalte ressurser og tjenester på vegne av det offentlige, må det stilles samme krav til offentligrettslige saksbehandlingsprinsipp og krav til god forvaltningsskikk.
 
+### Piratpartiet vil konkret
+
+- Gjøre offentlige postjournaler tilgjengelig på Internett uten å måtte be om innsyn.
+- Kreve at kontrakter mellom det offentlige og private publiseres i åpent format.
+- Publisere offentlige data med gjenbrukbar lisens, bare personvern og rikets sikkerhet kan stanse publisering.
+- Innføre 3-dagersfrist på innsyn etter offentleglova. Fylkesmannen skal ilegge dagbøter etter 5 dager ved overtredelse.
+- Alle offentlige virksomheter skal ha tilgang på fagkompetanse som jobber dedikert med anskaffelser og
+implementering av IKT. Disse skal ha fagkompetanse på kundesiden og være nøytrale/habile.
+- Til enhver tid ha oversikt over bruk av underleverandører ved anskaffelse og drift av IT-systemer som behandler
+sensitive personopplysninger (gjennom databehandleravtaler).
+- Kreve at digitale 3D-modeller vedlegges byggesøknader med ansvarsrett (tiltak uten ansvarsrett kan søkes uten 3D-modeller).
+- Gi bindende folkeavstemninger grunnlovsvern.
+- Innføre rådgivende nettbaserte avstemninger i alle landets kommuner og fylkeskommuner. Internett gjør det mulig å forenkle avstemninger uten uforholdsmessig stor ressursbruk.
+- La vanlige folk få legge frem forslag som Stortinget må ta stilling til dersom det oppnås et gitt antall signaturer fysisk og/eller digitalt.
+- Støtte «Holder de ord» og tilsvarende organisasjoner som registrerer hva de politiske partiene mener og hvordan de stemmer på Stortinget.
+- Straffeforfølge korrupsjon i offentlig sektor 20 år tilbake i tid.
+- Piratpartiet er imot generell bevæpning av politiet. Med bevæpning menes våpen. Pepperspray, batong og hund kommer ikke inn under bevæpning og vil være tillatt generelt for politi.
+
 ### 1.1. Flytende demokrati
 
 Demokratiets verdier ligger i å sikre frihet. Når demokratiet ikke gjør det, mister systemet sin legitimitet.
@@ -79,24 +97,6 @@ Stat og kommune må bli bedre til å samarbeide om bosetting av flyktninger slik
 Asylmottaksplasser skal være et statlig og kommunalt ansvar, og et antall basisplasser som dekker antallet asylsøkere til Norge skal til enhver tid gjenspeile reelle behov med en akseptabel standard. Opphold på lukkede asylmottak skal begrenses i størst mulig grad, spesielt overfor barn.
 
 At noen har løyet eller har gjort feil på asylsøknaden skal ikke tillegges noen vekt et gitt antall år etter at asylsøknaden er avgjort og søkeren er godt integrert i samfunnet.
-
-### Piratpartiet vil konkret
-
-- Gjøre offentlige postjournaler tilgjengelig på Internett uten å måtte be om innsyn.
-- Kreve at kontrakter mellom det offentlige og private publiseres i åpent format.
-- Publisere offentlige data med gjenbrukbar lisens, bare personvern og rikets sikkerhet kan stanse publisering.
-- Innføre 3-dagersfrist på innsyn etter offentleglova. Fylkesmannen skal ilegge dagbøter etter 5 dager ved overtredelse.
-- Alle offentlige virksomheter skal ha tilgang på fagkompetanse som jobber dedikert med anskaffelser og
-implementering av IKT. Disse skal ha fagkompetanse på kundesiden og være nøytrale/habile.
-- Til enhver tid ha oversikt over bruk av underleverandører ved anskaffelse og drift av IT-systemer som behandler
-sensitive personopplysninger (gjennom databehandleravtaler).
-- Kreve at digitale 3D-modeller vedlegges byggesøknader med ansvarsrett (tiltak uten ansvarsrett kan søkes uten 3D-modeller).
-- Gi bindende folkeavstemninger grunnlovsvern.
-- Innføre rådgivende nettbaserte avstemninger i alle landets kommuner og fylkeskommuner. Internett gjør det mulig å forenkle avstemninger uten uforholdsmessig stor ressursbruk.
-- La vanlige folk få legge frem forslag som Stortinget må ta stilling til dersom det oppnås et gitt antall signaturer fysisk og/eller digitalt.
-- Støtte «Holder de ord» og tilsvarende organisasjoner som registrerer hva de politiske partiene mener og hvordan de stemmer på Stortinget.
-- Straffeforfølge korrupsjon i offentlig sektor 20 år tilbake i tid.
-- Piratpartiet er imot generell bevæpning av politiet. Med bevæpning menes våpen. Pepperspray, batong og hund kommer ikke inn under bevæpning og vil være tillatt generelt for politi.
 
 ## 2. Individ og personvern
 
@@ -140,29 +140,6 @@ I den vestlige verden har opphavsrett blitt en alvorlig trussel mot fri kommunik
 
 For at kommunikasjonen skal tjene formålet med å koble sammen individer, må infrastrukturen både være velutbygd og nøytral. Hverken vegvesenet, postverket eller nettleverandørene skal diktere hvordan infrastrukturen skal benyttes.
 
-### 3.1. Energipolitikk
-
-#### Eksport og eksportkabler
-Piratpartiet er kritiske til utbyggingen av eksportkabler for kraft som pågår til Tyskland og England.
-Kostnader for utbygging av eksportkabler skal ikke overføres til forbruker. Piratpartiet er kritisk til overnasjonal styring, og forholdet til ACER skal avklares med en folkeavstemning.
-
-#### Kraftutbygging
-I forbindelse med kraftutbygging må naturen beskyttes mot ødeleggende inngrep. Ved eventuell driftsstans/avvikling
-av utbygd kraft skal naturen tilbakeføres i samme stand som før inngrepet.
-
-#### Alternative energikilder
-Piratpartiet ønsker å legge til rette for å undersøke og utrede muligheter for ulike energikilder, samt at det bevilges
-mer forskningsmidler til dette.
-
-#### Ny strømtariff
-Piratpartiet er uenig i at det skal knyttes et nytt tariffsystem (“effekttariff”) til de nye strømmålerne som er installert.
-Subsidiering av kraftkrevende industri kan fortsette under forutsetning av at overskudd fra virksomheten beskattes i
-Norge.
-
-#### Lovgivning og strømhandel
-Den interne organiseringen av norsk kraftbransje bør endres. Effekten av liberaliseringen av kraftmarkedet må
-analyseres, utviklingen må om nødvendig reverseres til beste for norske innbyggere, natur og miljø.
-
 ### Piratpartiet vil konkret
 
 - Tilby tilgang til et åpent og trygt Internett for borgerne (gjennom oppdatert mobilnett eller Wi-Fi) i offentlige soner.
@@ -187,6 +164,29 @@ rådighet for disse instansene.
 - Kreve brukerstyrte kostnadstak for mobilabonnement.
 - Tilrettelegge for anonyme og distribuerte betalingsløsninger, både fysiske, tradisjonelle og nye løsninger over Internett.
 - Påby maskinlesbar strekkode på giro som alternativ til KID-nummer.
+
+### 3.1. Energipolitikk
+
+#### Eksport og eksportkabler
+Piratpartiet er kritiske til utbyggingen av eksportkabler for kraft som pågår til Tyskland og England.
+Kostnader for utbygging av eksportkabler skal ikke overføres til forbruker. Piratpartiet er kritisk til overnasjonal styring, og forholdet til ACER skal avklares med en folkeavstemning.
+
+#### Kraftutbygging
+I forbindelse med kraftutbygging må naturen beskyttes mot ødeleggende inngrep. Ved eventuell driftsstans/avvikling
+av utbygd kraft skal naturen tilbakeføres i samme stand som før inngrepet.
+
+#### Alternative energikilder
+Piratpartiet ønsker å legge til rette for å undersøke og utrede muligheter for ulike energikilder, samt at det bevilges
+mer forskningsmidler til dette.
+
+#### Ny strømtariff
+Piratpartiet er uenig i at det skal knyttes et nytt tariffsystem (“effekttariff”) til de nye strømmålerne som er installert.
+Subsidiering av kraftkrevende industri kan fortsette under forutsetning av at overskudd fra virksomheten beskattes i
+Norge.
+
+#### Lovgivning og strømhandel
+Den interne organiseringen av norsk kraftbransje bør endres. Effekten av liberaliseringen av kraftmarkedet må
+analyseres, utviklingen må om nødvendig reverseres til beste for norske innbyggere, natur og miljø.
 
 ## 4. Kunnskap og kultur
 
