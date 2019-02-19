@@ -212,33 +212,9 @@ Opphavsrett var opprinnelig ment som et midlertidig monopol for å stimulere til
 - Kreve bruk av programvare som er lisensiert med frie eller åpen-kildekode-lisenser i offentlig sektor.
 - Kreve at offentlig finansiert forskning må publiseres åpent og være fritt tilgjengelig.
 
-## 5. Forskning og innovasjon
+### 4.1. Utdanning
 
-> Piratpartiet tror på forskning, utvikling og deling av resultater.
-
-### Prinsipper
-
-Piratpartiet støtter satsing på teknologi, innovasjon og den vitenskapelige metode.
-
-Det må være en balanse mellom grunnforskning og resultatorientert forskning. Piratpartiet vil gi universitetene våre en sterkere og mer selvstendig stilling i samfunnet for å hindre at politikere overstyrer og forstyrrer vitenskapelige metoder. Universitetsansatte skal ikke lenger hindres fra å delta i den offentlige debatt.
-
-Forskning som er offentlig finansiert (inkludert rådata, programkode og metoder) skal ligge åpent på Internett. Det tjener ikke samfunnet som helhet at forskning foregår bak lukkede dører uten mulighet for innsyn for andre i rådata, metoder, og programkode som er brukt som grunnlag for konklusjoner i forskningen.
-
-Patenter, som statlig garanterte monopoler, skaper en kunstig innskrenkning av den allmenne velferden, og trenger hyppig overprøving og evaluering. Programvarepatenter og biologiske patenter er særlig skadelige og bør fjernes. Patenter som direkte blokkerer fremskritt i vitenskap og/eller teknologi bør under alle omstendigheter forhindres.
-
-### Piratpartiet vil konkret
-
-- Øke offentlig støtte til forskning.
-- Kreve at offentlig finansiert forskning skal være bygd på vitenskapelige metoder.
-- Kreve at offentlig finansiert forskning må publiseres i åpent format, være fritt tilgjengelig og kunne brukes fritt.
-- Data og programvare finansiert gjennom offentlige midler, helt eller delvis, skal benytte seg av fri eller åpen-kildekode-lisenser, og den modifiserte kildekoden må være åpen og fritt tilgjengelig og kunne brukes fritt.
-- Fjerne programvarepatenter, medisinske-, og biologiske patenter. Andre typer patenter skal vurderes.
-- Redusere vernetida på patentert miljøvennlig teknologi for å løse fremtidens miljøutfordringer.
-- Satse sterkere på romfart med utforskning av verdensrommet via Norsk Romsenter eller ESA (European Space Agency), samt styrke finansiering av forskning knyttet til dette feltet.
-
-## 6. Utdanning
-
-### Prinsipper
+#### Prinsipper
 
 Piratpartiet mener at utdanningssystemet må oppdateres. Samfunn og utdanningssystemet må være i harmoni fra barnehage til høyere utdanning. Formålet med utdanningssystemet er å lære folk hvordan samfunnet fungerer og hvordan ny kunnskap blir skapt. Altfor mange mennesker står uten muligheter til å finne arbeid i sitt fagfelt. Dette vil Piratpartiet endre ved å gjøre utdanninger på alle nivå mer varierte, fleksible, koblet til Internett og direkte koblet til samfunnet.
 
@@ -246,7 +222,7 @@ Utdanning skal gi pensjonspoeng fordi folk som tar høyere utdanning eller vider
 
 Gode kunnskaper om informasjonsteknologiens muligheter og konsekvenser er avgjørende for at mennesker skal ta gode valg i dagens og morgendagens samfunn.
 
-### Piratpartiet vil konkret
+#### Piratpartiet vil konkret
 
 - Unngå særbehandling av enkelte produktleverandører i skoleverket og det offentlige.
 - Sørge for frie og åpne læremidler til alle fag i grunnopplæringa.
@@ -257,7 +233,31 @@ uavhengig av hvor de bor og hvilken skole de går på.
 «sensur-systemer». Elevene vil uansett ha behov for kompetanse og håndteringsevne.
 - Det skal være fokus på kildekritikk i digitale medier i skolene.
 
-## 7. Næringsliv og økonomi
+### 4.2. Forskning og innovasjon
+
+> Piratpartiet tror på forskning, utvikling og deling av resultater.
+
+#### Prinsipper
+
+Piratpartiet støtter satsing på teknologi, innovasjon og den vitenskapelige metode.
+
+Det må være en balanse mellom grunnforskning og resultatorientert forskning. Piratpartiet vil gi universitetene våre en sterkere og mer selvstendig stilling i samfunnet for å hindre at politikere overstyrer og forstyrrer vitenskapelige metoder. Universitetsansatte skal ikke lenger hindres fra å delta i den offentlige debatt.
+
+Forskning som er offentlig finansiert (inkludert rådata, programkode og metoder) skal ligge åpent på Internett. Det tjener ikke samfunnet som helhet at forskning foregår bak lukkede dører uten mulighet for innsyn for andre i rådata, metoder, og programkode som er brukt som grunnlag for konklusjoner i forskningen.
+
+Patenter, som statlig garanterte monopoler, skaper en kunstig innskrenkning av den allmenne velferden, og trenger hyppig overprøving og evaluering. Programvarepatenter og biologiske patenter er særlig skadelige og bør fjernes. Patenter som direkte blokkerer fremskritt i vitenskap og/eller teknologi bør under alle omstendigheter forhindres.
+
+#### Piratpartiet vil konkret
+
+- Øke offentlig støtte til forskning.
+- Kreve at offentlig finansiert forskning skal være bygd på vitenskapelige metoder.
+- Kreve at offentlig finansiert forskning må publiseres i åpent format, være fritt tilgjengelig og kunne brukes fritt.
+- Data og programvare finansiert gjennom offentlige midler, helt eller delvis, skal benytte seg av fri eller åpen-kildekode-lisenser, og den modifiserte kildekoden må være åpen og fritt tilgjengelig og kunne brukes fritt.
+- Fjerne programvarepatenter, medisinske-, og biologiske patenter. Andre typer patenter skal vurderes.
+- Redusere vernetida på patentert miljøvennlig teknologi for å løse fremtidens miljøutfordringer.
+- Satse sterkere på romfart med utforskning av verdensrommet via Norsk Romsenter eller ESA (European Space Agency), samt styrke finansiering av forskning knyttet til dette feltet.
+
+## 5. Næringsliv og økonomi
 
 ### Prinsipper
 
@@ -282,7 +282,7 @@ Juridiske enheters eierskap skal alltid være åpen og sporbar.
 - Hindre norsk ratifisering av frihandelsavtalene TTIP og TISA mellom EU/EØS og USA, og CETA mellom EU/EØS og Canada slik disse foreligger i dag. Disse er en betydelig fare for arbeidsplasser og forbruker- og miljøstandarder. Vi krever åpne forhandlinger og folkeavstemning.
 - Hindre norsk ratifisering av de økonomiske partnerskapsavtalene EPAs (Economic Partnership Agreements) mellom EU og afrikanske stater slik disse foreligger i dag. Grunnen er at disse setter verne- og utviklingsbehovene til afrikanske stater til side til fordel for europeiske næringsinteresser. Vi krever åpne forhandlinger og folkeavstemning.
 
-## 8. Klima og miljø
+## 6. Klima og miljø
 
 ### Prinsipper
 
