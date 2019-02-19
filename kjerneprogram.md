@@ -43,14 +43,13 @@ I hver søyle beskriver vi prinsippene våre og konkrete politiske standpunkter.
 
 > Internett muliggjør et styresett som er nærmere det demokratiske idealet enn det vi har i dag.
 
-### Prinsipper
 Det representative demokratiet vi har i Norge i dag har forbedringspotensiale for å oppnå intensjonen om folkestyre. Piratpartiet mener at Internett muliggjør et styresett som tillater borgere å være langt mer involvert i prosessene. Vi har sett tilfeller der særinteresser har hatt utilbørlig innflytelse på politikken, og det ønsker vi å endre. Åpenhet og innsyn, folkeavstemninger og felles utforming av lover vil endre norsk politikk dramatisk, hvor folket igjen bestemmer.
 
 Piratpartiet vil at borgere skal ha tilgang til all relevant informasjon for å kunne ta informerte beslutninger, og for å utføre nødvendig tilsyn med statsadministrasjonen. Uten åpenhet har vi ikke ekte demokrati. I fravær av åpenhet kan vi nemlig ikke ta avgjørelser om offentlige ressurser, vi kan ikke hindre korrupsjon, og enkeltpersoner kan ikke holdes ansvarlig.
 
 I den grad private aktører skal forvalte ressurser og tjenester på vegne av det offentlige, må det stilles samme krav til offentligrettslige saksbehandlingsprinsipp og krav til god forvaltningsskikk.
 
-### Piratpartiet vil konkret
+### Piratpartiet vil:
 
 - Gjøre offentlige postjournaler tilgjengelig på Internett uten å måtte be om innsyn.
 - Kreve at kontrakter mellom det offentlige og private publiseres i åpent format.
@@ -102,8 +101,6 @@ At noen har løyet eller har gjort feil på asylsøknaden skal ikke tillegges no
 
 > Piratpartiet vil bevare de grunnleggende rettighetene alle individer har, jamfør Piratkodeksen.
 
-### Prinsipper
-
 Grunnleggende prinsipper og rettigheter handler i bunnen om å beskytte de svake mot de sterke. Det er en garanti og beskyttelse mot maktmisbruk. Disse rettighetene blir stadig både forsøkt innskrenket og faktisk innskrenket. Endringer i teknologien og samfunnet har avdekket nye problemstillinger, uten at rettighetene har fulgt etter.
 
 Piratpartiet står for sterkere sivile rettigheter i form av menings- og ytringsfrihet, åpenhet i både politikken og offentlig forvaltning og mulighet til anonymitet i det offentlige rom og på Internett.
@@ -114,7 +111,7 @@ Vi mener at individet skal ha kontroll over sin egen informasjon og kommunikasjo
 
 Vi mener også at infrastrukturene skal være distribuerte, nøytrale og allment tilgjengelig.
 
-### Piratpartiet vil konkret
+### Piratpartiet vil:
 
 - Stanse implementering av lovverk for masseovervåking og sensur.
 - Beskytte norsk kommunikasjon mot avlytting.
@@ -131,7 +128,6 @@ Vi mener også at infrastrukturene skal være distribuerte, nøytrale og allment
 
 > Åpne, velutbygde og nøytrale infrastrukturer er en forutsetning for at individet skal kunne samhandle med samfunnet.
 
-### Prinsipper
 Kommunikasjon er selve livsnerven for et fungerende moderne samfunn enten det er personer som skal reise, varer som skal sendes, tanker som skal utveksles eller informasjon som skal deles.
 
 Å kunne jobbe for et enda mer effektivt demokrati og fremgangsrikt samfunn forutsetter tanke- og ytringsfrihet. Det krever at folket skal kunne kommunisere fritt uten sensur og overvåking, hverken fra det offentlige eller fra private.
@@ -140,7 +136,7 @@ I den vestlige verden har opphavsrett blitt en alvorlig trussel mot fri kommunik
 
 For at kommunikasjonen skal tjene formålet med å koble sammen individer, må infrastrukturen både være velutbygd og nøytral. Hverken vegvesenet, postverket eller nettleverandørene skal diktere hvordan infrastrukturen skal benyttes.
 
-### Piratpartiet vil konkret
+### Piratpartiet vil:
 
 - Tilby tilgang til et åpent og trygt Internett for borgerne (gjennom oppdatert mobilnett eller Wi-Fi) i offentlige soner.
 - Lovfeste tilgang til Internett. For at borgere skal kunne delta i samfunnet i dag må de ha tilgang til Internett.
@@ -192,11 +188,9 @@ analyseres, utviklingen må om nødvendig reverseres til beste for norske innbyg
 
 > Piratpartiet ønsker at samfunnet får tilgang til mest mulig kunnskap og kultur, og ønsker at fagfellevurdert forskning skal avdekke virkemidler som gir oss det samfunnet vi ønsker.
 
-### Prinsipper
-
 Opphavsrett var opprinnelig ment som et midlertidig monopol for å stimulere til at samfunnet fikk økt tilgang til kulturelle uttrykk. Det var opprinnelig en ren kommersiell begrensning ettersom kopimaskiner var dyre, men nå som de er billige har privatpersoner også blitt omfattet av loven. Internett og den digitale revolusjonen har endret forutsetningene, og loven må følge etter. Vi har ikke alle svarene, men vi vet i hvert fall at vernetiden er unødig høy og at opphavsretten ikke bør kunne trå over grunnleggende rettigheter som fri kommunikasjon og ytringsfriheten. Vi mener det er nødvendig med en reform hvor vi går tilbake til utgangspunktet ved å spørre hvordan samfunnet får tilgang til mest mulig kunnskap og kultur.
 
-### Piratpartiet vil konkret
+### Piratpartiet vil:
 
 - Avkriminalisere privat og ikke-kommersiell deling av åndsverk, siden håndheving av slike forbud nødvendigvis må medføre et overvåkningssamfunn.
 - Redusere vernetiden for åndsverk til maksimalt 20 år etter utgivelse og innføre enkle krav om registrering etter 5 år.
@@ -214,15 +208,13 @@ Opphavsrett var opprinnelig ment som et midlertidig monopol for å stimulere til
 
 ### 4.1. Utdanning
 
-#### Prinsipper
-
 Piratpartiet mener at utdanningssystemet må oppdateres. Samfunn og utdanningssystemet må være i harmoni fra barnehage til høyere utdanning. Formålet med utdanningssystemet er å lære folk hvordan samfunnet fungerer og hvordan ny kunnskap blir skapt. Altfor mange mennesker står uten muligheter til å finne arbeid i sitt fagfelt. Dette vil Piratpartiet endre ved å gjøre utdanninger på alle nivå mer varierte, fleksible, koblet til Internett og direkte koblet til samfunnet.
 
 Utdanning skal gi pensjonspoeng fordi folk som tar høyere utdanning eller videreutdanning kommer senere ut i arbeidslivet enn de som ikke gjør det.
 
 Gode kunnskaper om informasjonsteknologiens muligheter og konsekvenser er avgjørende for at mennesker skal ta gode valg i dagens og morgendagens samfunn.
 
-#### Piratpartiet vil konkret
+#### Piratpartiet vil:
 
 - Unngå særbehandling av enkelte produktleverandører i skoleverket og det offentlige.
 - Sørge for frie og åpne læremidler til alle fag i grunnopplæringa.
@@ -237,8 +229,6 @@ uavhengig av hvor de bor og hvilken skole de går på.
 
 > Piratpartiet tror på forskning, utvikling og deling av resultater.
 
-#### Prinsipper
-
 Piratpartiet støtter satsing på teknologi, innovasjon og den vitenskapelige metode.
 
 Det må være en balanse mellom grunnforskning og resultatorientert forskning. Piratpartiet vil gi universitetene våre en sterkere og mer selvstendig stilling i samfunnet for å hindre at politikere overstyrer og forstyrrer vitenskapelige metoder. Universitetsansatte skal ikke lenger hindres fra å delta i den offentlige debatt.
@@ -247,7 +237,7 @@ Forskning som er offentlig finansiert (inkludert rådata, programkode og metoder
 
 Patenter, som statlig garanterte monopoler, skaper en kunstig innskrenkning av den allmenne velferden, og trenger hyppig overprøving og evaluering. Programvarepatenter og biologiske patenter er særlig skadelige og bør fjernes. Patenter som direkte blokkerer fremskritt i vitenskap og/eller teknologi bør under alle omstendigheter forhindres.
 
-#### Piratpartiet vil konkret
+#### Piratpartiet vil:
 
 - Øke offentlig støtte til forskning.
 - Kreve at offentlig finansiert forskning skal være bygd på vitenskapelige metoder.
@@ -258,8 +248,6 @@ Patenter, som statlig garanterte monopoler, skaper en kunstig innskrenkning av d
 - Satse sterkere på romfart med utforskning av verdensrommet via Norsk Romsenter eller ESA (European Space Agency), samt styrke finansiering av forskning knyttet til dette feltet.
 
 ## 5. Næringsliv og økonomi
-
-### Prinsipper
 
 Næringslivs- og økonomisk politikk skal tjene alle mennesker og samfunnet.
 
@@ -275,7 +263,7 @@ All beskatning skal skje på en slik måte at den gjøres synlig og forståelig 
 
 Juridiske enheters eierskap skal alltid være åpen og sporbar.
 
-### Piratpartiet vil konkret
+### Piratpartiet vil:
 
 - Forbedre forholdene for små og mellomstore bedrifter med forenklet rammeverk, og bedre støtteordninger. Vi ser at brorparten av nye arbeidsplasser skapes i SMB-bedriftene, og vi ønsker å støtte disse.
 - Tilrettelegge for mulighetene som internett- og delingsøkonomien gir.
@@ -283,8 +271,6 @@ Juridiske enheters eierskap skal alltid være åpen og sporbar.
 - Hindre norsk ratifisering av de økonomiske partnerskapsavtalene EPAs (Economic Partnership Agreements) mellom EU og afrikanske stater slik disse foreligger i dag. Grunnen er at disse setter verne- og utviklingsbehovene til afrikanske stater til side til fordel for europeiske næringsinteresser. Vi krever åpne forhandlinger og folkeavstemning.
 
 ## 6. Klima og miljø
-
-### Prinsipper
 
 Vi må bygge et bærekraftig samfunn som ikke bidrar til ødeleggelse av klima og miljø, et samfunn som tilpasser energi- og ressursforbruk til et akseptabelt nivå. 
 
@@ -294,7 +280,7 @@ Det er godt dokumentert og vitenskapelig konsensus om at menneskelig aktivitet e
 
 En forutsetning for å følge føre-var-prinsippet og å leve i et bærekraftig samfunn er at økologiske og sosiale hensyn settes foran kommersielle interesser. Dagens økonomiske modell er i for stor grad styrt av et stadig økende forbruk, en situasjon som av fysiske årsaker ikke kan fortsette på lang sikt.
 
-### Piratpartiet vil konkret
+### Piratpartiet vil:
 
 - Jobbe for å redusere blant annet CO2-utslipp i henhold til internasjonale forpliktelser og samarbeid. 
 - Igangsette tiltak for å gjøre gjenvinning og annen ressurssparing til en arena for en økonomisk bærekraftig industri/næring. 
