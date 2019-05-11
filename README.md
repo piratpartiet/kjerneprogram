@@ -1,3 +1,7 @@
+# Arkivert kodebrønn
+Dette er kjerneprogrammet slik det var frem til vedtak om omstrukturering på landsmøtet april 2019.
+Kjerneprogrammet er ikke lenger en del av Piratpartiets program. Det vises til Politisk program som vedtatt på samme landsmøte.
+
 # Kjerneprogram
 
 Denne kodebrønnen (code repository) inneholder kjerneprogrammet til
